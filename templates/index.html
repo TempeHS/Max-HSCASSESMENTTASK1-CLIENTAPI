@@ -1,11 +1,10 @@
-{% extends 'layout.html' %}
-{% block content %}
-<div class="container">
-    <div class="row">
-        <h1 class="display-1">Hello world!</h1>
-    </div>
-    <div class="row">
-
-    </div>
-</div>
+{% extends "layout.html" %} {% block title %}Home - Dev Diaries{% endblock %} {%
+block content %}
+<h1>Welcome to Dev Diaries</h1>
+<p>
+  This is a secure Web App for fellow developers to record and store their
+  progress.
+</p>
+<a href="{{ url_for('login') }}">Login</a> |
+<a href="{{ url_for('signup') }}">Sign Up</a>
 {% endblock %}
