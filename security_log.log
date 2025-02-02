@@ -1,0 +1,1602 @@
+2025-01-28 15:25:56,921 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-28 15:25:56,921 [33mPress CTRL+C to quit[0m
+2025-01-28 15:25:56,928  * Restarting with stat
+2025-01-28 15:25:57,630  * Debugger is active!
+2025-01-28 15:25:57,643  * Debugger PIN: 830-481-561
+2025-01-29 13:33:37,448 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 13:33:37,448 [33mPress CTRL+C to quit[0m
+2025-01-29 13:33:37,455  * Restarting with stat
+2025-01-29 13:33:38,227  * Debugger is active!
+2025-01-29 13:33:38,269  * Debugger PIN: 508-715-579
+2025-01-29 13:33:49,887 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 13:33:49,887 [33mPress CTRL+C to quit[0m
+2025-01-29 13:33:49,888  * Restarting with stat
+2025-01-29 13:33:50,665  * Debugger is active!
+2025-01-29 13:33:50,703  * Debugger PIN: 508-715-579
+2025-01-29 13:34:17,944  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-29 13:34:17,981  * Restarting with stat
+2025-01-29 13:34:18,061  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-29 13:34:18,099  * Restarting with stat
+2025-01-29 13:34:18,880  * Debugger is active!
+2025-01-29 13:34:18,928  * Debugger PIN: 508-715-579
+2025-01-29 13:34:18,973  * Debugger is active!
+2025-01-29 13:34:19,018  * Debugger PIN: 508-715-579
+2025-01-29 13:35:14,418  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-29 13:35:14,450  * Restarting with stat
+2025-01-29 13:35:14,496  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-29 13:35:14,529  * Restarting with stat
+2025-01-29 13:35:15,344  * Debugger is active!
+2025-01-29 13:35:15,384  * Debugger PIN: 508-715-579
+2025-01-29 13:35:15,402  * Debugger is active!
+2025-01-29 13:35:15,452  * Debugger PIN: 508-715-579
+2025-01-29 13:37:44,300  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\userManagement.py', reloading
+2025-01-29 13:37:44,350  * Restarting with stat
+2025-01-29 13:37:44,420  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\userManagement.py', reloading
+2025-01-29 13:37:44,454  * Restarting with stat
+2025-01-29 13:47:08,151 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.20.17:5000
+2025-01-29 13:47:08,151 [33mPress CTRL+C to quit[0m
+2025-01-29 13:47:08,152  * Restarting with stat
+2025-01-29 13:47:08,575  * Debugger is active!
+2025-01-29 13:47:08,614  * Debugger PIN: 508-715-579
+2025-01-29 13:49:36,931 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 13:49:36,931 [33mPress CTRL+C to quit[0m
+2025-01-29 13:49:36,933  * Restarting with stat
+2025-01-29 13:49:37,341  * Debugger is active!
+2025-01-29 13:49:37,380  * Debugger PIN: 508-715-579
+2025-01-29 13:50:49,089 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 13:50:49,089 [33mPress CTRL+C to quit[0m
+2025-01-29 13:50:49,091  * Restarting with stat
+2025-01-29 13:50:49,511  * Debugger is active!
+2025-01-29 13:50:49,549  * Debugger PIN: 508-715-579
+2025-01-29 13:51:07,162 127.0.0.1 - - [29/Jan/2025 13:51:07] "GET / HTTP/1.1" 200 -
+2025-01-29 13:51:07,371 127.0.0.1 - - [29/Jan/2025 13:51:07] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-01-29 13:51:07,380 127.0.0.1 - - [29/Jan/2025 13:51:07] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-01-29 13:51:07,400 127.0.0.1 - - [29/Jan/2025 13:51:07] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-01-29 13:51:07,507 127.0.0.1 - - [29/Jan/2025 13:51:07] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-01-29 13:51:07,523 127.0.0.1 - - [29/Jan/2025 13:51:07] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-01-29 13:51:08,266 127.0.0.1 - - [29/Jan/2025 13:51:08] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 13:51:08,270 127.0.0.1 - - [29/Jan/2025 13:51:08] "GET /static/images/favicon.png HTTP/1.1" 200 -
+2025-01-29 13:51:08,272 127.0.0.1 - - [29/Jan/2025 13:51:08] "GET /static/manifest.json HTTP/1.1" 200 -
+2025-01-29 13:51:08,286 127.0.0.1 - - [29/Jan/2025 13:51:08] "GET / HTTP/1.1" 200 -
+2025-01-29 13:51:08,290 127.0.0.1 - - [29/Jan/2025 13:51:08] "[33mGET /static/js/static/css/style.css HTTP/1.1[0m" 404 -
+2025-01-29 13:51:08,290 127.0.0.1 - - [29/Jan/2025 13:51:08] "[33mGET /static/js/static/css/style.css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-01-29 13:51:08,290 127.0.0.1 - - [29/Jan/2025 13:51:08] "[33mGET /static/js/static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2025-01-29 13:51:08,291 127.0.0.1 - - [29/Jan/2025 13:51:08] "[33mGET /static/js/static/js/app.js HTTP/1.1[0m" 404 -
+2025-01-29 13:51:08,291 127.0.0.1 - - [29/Jan/2025 13:51:08] "[33mGET /static/js/static/images/logo.png HTTP/1.1[0m" 404 -
+2025-01-29 13:51:08,293 127.0.0.1 - - [29/Jan/2025 13:51:08] "[33mGET /static/js/static/images/favicon.jpg HTTP/1.1[0m" 404 -
+2025-01-29 13:52:31,627  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-29 13:52:33,576 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 13:52:33,576 [33mPress CTRL+C to quit[0m
+2025-01-29 13:52:33,578  * Restarting with stat
+2025-01-29 13:52:33,998  * Debugger is active!
+2025-01-29 13:52:34,038  * Debugger PIN: 508-715-579
+2025-01-29 13:52:35,113 127.0.0.1 - - [29/Jan/2025 13:52:35] "GET / HTTP/1.1" 200 -
+2025-01-29 13:52:35,317 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 13:52:35,326 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 13:52:35,330 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 13:52:35,375 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 13:52:35,379 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 13:52:35,612 127.0.0.1 - - [29/Jan/2025 13:52:35] "GET / HTTP/1.1" 200 -
+2025-01-29 13:52:35,711 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 13:52:35,718 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 13:52:35,719 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 13:52:35,786 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 13:52:35,790 127.0.0.1 - - [29/Jan/2025 13:52:35] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 13:52:36,184 127.0.0.1 - - [29/Jan/2025 13:52:36] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 13:52:36,549 127.0.0.1 - - [29/Jan/2025 13:52:36] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 13:53:33,878  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-29 13:53:33,909  * Restarting with stat
+2025-01-29 13:53:36,285 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 13:53:36,285 [33mPress CTRL+C to quit[0m
+2025-01-29 13:53:36,286  * Restarting with stat
+2025-01-29 13:53:36,704  * Debugger is active!
+2025-01-29 13:53:36,742  * Debugger PIN: 508-715-579
+2025-01-29 13:54:05,675  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-29 13:54:05,703  * Restarting with stat
+2025-01-29 13:54:06,129  * Debugger is active!
+2025-01-29 13:54:06,167  * Debugger PIN: 508-715-579
+2025-01-29 13:54:09,950 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 13:54:09,951 [33mPress CTRL+C to quit[0m
+2025-01-29 13:54:09,952  * Restarting with stat
+2025-01-29 13:54:10,373  * Debugger is active!
+2025-01-29 13:54:10,411  * Debugger PIN: 508-715-579
+2025-01-29 13:54:10,720 127.0.0.1 - - [29/Jan/2025 13:54:10] "GET / HTTP/1.1" 200 -
+2025-01-29 13:54:10,926 127.0.0.1 - - [29/Jan/2025 13:54:10] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 13:54:10,930 127.0.0.1 - - [29/Jan/2025 13:54:10] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:10,932 127.0.0.1 - - [29/Jan/2025 13:54:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,043 127.0.0.1 - - [29/Jan/2025 13:54:11] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,047 127.0.0.1 - - [29/Jan/2025 13:54:11] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,480 127.0.0.1 - - [29/Jan/2025 13:54:11] "GET / HTTP/1.1" 200 -
+2025-01-29 13:54:11,585 127.0.0.1 - - [29/Jan/2025 13:54:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,588 127.0.0.1 - - [29/Jan/2025 13:54:11] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,588 127.0.0.1 - - [29/Jan/2025 13:54:11] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,659 127.0.0.1 - - [29/Jan/2025 13:54:11] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,679 127.0.0.1 - - [29/Jan/2025 13:54:11] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,830 127.0.0.1 - - [29/Jan/2025 13:54:11] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,831 127.0.0.1 - - [29/Jan/2025 13:54:11] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2025-01-29 13:54:11,953 127.0.0.1 - - [29/Jan/2025 13:54:11] "GET / HTTP/1.1" 200 -
+2025-01-29 13:54:12,024 127.0.0.1 - - [29/Jan/2025 13:54:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 13:54:12,025 127.0.0.1 - - [29/Jan/2025 13:54:12] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 13:54:12,025 127.0.0.1 - - [29/Jan/2025 13:54:12] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:12,071 127.0.0.1 - - [29/Jan/2025 13:54:12] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:12,076 127.0.0.1 - - [29/Jan/2025 13:54:12] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:12,508 127.0.0.1 - - [29/Jan/2025 13:54:12] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 13:54:12,509 127.0.0.1 - - [29/Jan/2025 13:54:12] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2025-01-29 13:54:12,860 127.0.0.1 - - [29/Jan/2025 13:54:12] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 13:54:17,432 127.0.0.1 - - [29/Jan/2025 13:54:17] "GET / HTTP/1.1" 200 -
+2025-01-29 13:54:17,452 127.0.0.1 - - [29/Jan/2025 13:54:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 13:54:17,452 127.0.0.1 - - [29/Jan/2025 13:54:17] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 13:54:17,453 127.0.0.1 - - [29/Jan/2025 13:54:17] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:17,465 127.0.0.1 - - [29/Jan/2025 13:54:17] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:17,469 127.0.0.1 - - [29/Jan/2025 13:54:17] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 13:54:17,814 127.0.0.1 - - [29/Jan/2025 13:54:17] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 13:56:17,201  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-29 13:56:17,239  * Restarting with stat
+2025-01-29 14:05:15,897 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 14:05:15,897 [33mPress CTRL+C to quit[0m
+2025-01-29 14:05:15,899  * Restarting with stat
+2025-01-29 14:05:16,326  * Debugger is active!
+2025-01-29 14:05:16,368  * Debugger PIN: 508-715-579
+2025-01-29 14:05:17,439 127.0.0.1 - - [29/Jan/2025 14:05:17] "GET / HTTP/1.1" 200 -
+2025-01-29 14:05:17,677 127.0.0.1 - - [29/Jan/2025 14:05:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 14:05:17,684 127.0.0.1 - - [29/Jan/2025 14:05:17] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 14:05:17,688 127.0.0.1 - - [29/Jan/2025 14:05:17] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 14:05:17,794 127.0.0.1 - - [29/Jan/2025 14:05:17] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 14:05:17,799 127.0.0.1 - - [29/Jan/2025 14:05:17] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 14:05:17,913 127.0.0.1 - - [29/Jan/2025 14:05:17] "GET / HTTP/1.1" 200 -
+2025-01-29 14:05:17,982 127.0.0.1 - - [29/Jan/2025 14:05:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 14:05:17,983 127.0.0.1 - - [29/Jan/2025 14:05:17] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 14:05:17,984 127.0.0.1 - - [29/Jan/2025 14:05:17] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 14:05:18,046 127.0.0.1 - - [29/Jan/2025 14:05:18] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 14:05:18,051 127.0.0.1 - - [29/Jan/2025 14:05:18] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 14:05:18,679 127.0.0.1 - - [29/Jan/2025 14:05:18] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 14:05:18,855 127.0.0.1 - - [29/Jan/2025 14:05:18] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 14:14:17,804 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 14:14:17,804 [33mPress CTRL+C to quit[0m
+2025-01-29 14:14:17,805  * Restarting with stat
+2025-01-29 14:14:18,228  * Debugger is active!
+2025-01-29 14:14:18,267  * Debugger PIN: 508-715-579
+2025-01-29 14:14:19,348 127.0.0.1 - - [29/Jan/2025 14:14:19] "GET / HTTP/1.1" 200 -
+2025-01-29 14:14:19,523 127.0.0.1 - - [29/Jan/2025 14:14:19] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:19,543 127.0.0.1 - - [29/Jan/2025 14:14:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:19,548 127.0.0.1 - - [29/Jan/2025 14:14:19] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:19,574 127.0.0.1 - - [29/Jan/2025 14:14:19] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:19,683 127.0.0.1 - - [29/Jan/2025 14:14:19] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:19,832 127.0.0.1 - - [29/Jan/2025 14:14:19] "GET / HTTP/1.1" 200 -
+2025-01-29 14:14:19,957 127.0.0.1 - - [29/Jan/2025 14:14:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:19,958 127.0.0.1 - - [29/Jan/2025 14:14:19] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:19,959 127.0.0.1 - - [29/Jan/2025 14:14:19] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:20,030 127.0.0.1 - - [29/Jan/2025 14:14:20] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:20,041 127.0.0.1 - - [29/Jan/2025 14:14:20] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:20,510 127.0.0.1 - - [29/Jan/2025 14:14:20] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 14:14:20,787 127.0.0.1 - - [29/Jan/2025 14:14:20] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 14:14:23,596 127.0.0.1 - - [29/Jan/2025 14:14:23] "[32mGET /index.html HTTP/1.1[0m" 302 -
+2025-01-29 14:14:23,600 127.0.0.1 - - [29/Jan/2025 14:14:23] "GET / HTTP/1.1" 200 -
+2025-01-29 14:14:23,620 127.0.0.1 - - [29/Jan/2025 14:14:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:23,621 127.0.0.1 - - [29/Jan/2025 14:14:23] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:23,622 127.0.0.1 - - [29/Jan/2025 14:14:23] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:23,632 127.0.0.1 - - [29/Jan/2025 14:14:23] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:23,635 127.0.0.1 - - [29/Jan/2025 14:14:23] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:24,020 127.0.0.1 - - [29/Jan/2025 14:14:24] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 14:14:26,147 127.0.0.1 - - [29/Jan/2025 14:14:26] "[33mGET /form.html HTTP/1.1[0m" 404 -
+2025-01-29 14:14:26,255 127.0.0.1 - - [29/Jan/2025 14:14:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 14:14:31,743 127.0.0.1 - - [29/Jan/2025 14:14:31] "[32mGET /index.html HTTP/1.1[0m" 302 -
+2025-01-29 14:14:31,748 127.0.0.1 - - [29/Jan/2025 14:14:31] "GET / HTTP/1.1" 200 -
+2025-01-29 14:14:31,769 127.0.0.1 - - [29/Jan/2025 14:14:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:31,769 127.0.0.1 - - [29/Jan/2025 14:14:31] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:31,769 127.0.0.1 - - [29/Jan/2025 14:14:31] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:31,779 127.0.0.1 - - [29/Jan/2025 14:14:31] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:31,782 127.0.0.1 - - [29/Jan/2025 14:14:31] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:31,867 127.0.0.1 - - [29/Jan/2025 14:14:31] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-29 14:14:35,072 127.0.0.1 - - [29/Jan/2025 14:14:35] "GET / HTTP/1.1" 200 -
+2025-01-29 14:14:35,094 127.0.0.1 - - [29/Jan/2025 14:14:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:35,096 127.0.0.1 - - [29/Jan/2025 14:14:35] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-29 14:14:35,096 127.0.0.1 - - [29/Jan/2025 14:14:35] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:35,104 127.0.0.1 - - [29/Jan/2025 14:14:35] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:35,107 127.0.0.1 - - [29/Jan/2025 14:14:35] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-29 14:14:35,471 127.0.0.1 - - [29/Jan/2025 14:14:35] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 12:32:35,417 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 12:32:35,417 [33mPress CTRL+C to quit[0m
+2025-01-30 12:32:35,423  * Restarting with stat
+2025-01-30 12:32:35,830  * Debugger is active!
+2025-01-30 12:32:35,867  * Debugger PIN: 508-715-579
+2025-01-30 12:32:36,950 127.0.0.1 - - [30/Jan/2025 12:32:36] "GET / HTTP/1.1" 200 -
+2025-01-30 12:32:37,155 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 12:32:37,162 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 12:32:37,182 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 12:32:37,284 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 12:32:37,299 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 12:32:37,387 127.0.0.1 - - [30/Jan/2025 12:32:37] "GET / HTTP/1.1" 200 -
+2025-01-30 12:32:37,487 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 12:32:37,487 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 12:32:37,493 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 12:32:37,526 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 12:32:37,562 127.0.0.1 - - [30/Jan/2025 12:32:37] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 12:32:38,140 127.0.0.1 - - [30/Jan/2025 12:32:38] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 12:32:38,312 127.0.0.1 - - [30/Jan/2025 12:32:38] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 12:32:39,132 127.0.0.1 - - [30/Jan/2025 12:32:39] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2025-01-30 12:32:39,239 127.0.0.1 - - [30/Jan/2025 12:32:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-30 12:39:53,899 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 12:39:53,899 [33mPress CTRL+C to quit[0m
+2025-01-30 12:39:53,901  * Restarting with stat
+2025-01-30 12:39:54,306  * Debugger is active!
+2025-01-30 12:39:54,343  * Debugger PIN: 508-715-579
+2025-01-30 12:39:55,505 127.0.0.1 - - [30/Jan/2025 12:39:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 12:39:55,614 127.0.0.1 - - [30/Jan/2025 12:39:55] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-01-30 12:39:55,617 127.0.0.1 - - [30/Jan/2025 12:39:55] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-01-30 12:39:55,686 127.0.0.1 - - [30/Jan/2025 12:39:55] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=Q0zcG7ianR2Eh6q8E9Mk HTTP/1.1" 200 -
+2025-01-30 12:39:55,897 127.0.0.1 - - [30/Jan/2025 12:39:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 12:39:55,912 127.0.0.1 - - [30/Jan/2025 12:39:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 12:39:55,913 127.0.0.1 - - [30/Jan/2025 12:39:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 12:39:55,971 127.0.0.1 - - [30/Jan/2025 12:39:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=Q0zcG7ianR2Eh6q8E9Mk HTTP/1.1[0m" 304 -
+2025-01-30 12:39:56,448 127.0.0.1 - - [30/Jan/2025 12:39:56] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-01-30 12:39:56,742 127.0.0.1 - - [30/Jan/2025 12:39:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-30 12:50:27,015 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 12:50:27,015 [33mPress CTRL+C to quit[0m
+2025-01-30 12:50:27,017  * Restarting with stat
+2025-01-30 12:50:27,414  * Debugger is active!
+2025-01-30 12:50:27,451  * Debugger PIN: 508-715-579
+2025-01-30 12:50:28,601 127.0.0.1 - - [30/Jan/2025 12:50:28] "GET / HTTP/1.1" 200 -
+2025-01-30 12:50:28,873 127.0.0.1 - - [30/Jan/2025 12:50:28] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 12:50:28,884 127.0.0.1 - - [30/Jan/2025 12:50:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 12:50:28,887 127.0.0.1 - - [30/Jan/2025 12:50:28] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 12:50:28,910 127.0.0.1 - - [30/Jan/2025 12:50:28] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 12:50:28,915 127.0.0.1 - - [30/Jan/2025 12:50:28] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 12:50:29,039 127.0.0.1 - - [30/Jan/2025 12:50:29] "GET / HTTP/1.1" 200 -
+2025-01-30 12:50:29,110 127.0.0.1 - - [30/Jan/2025 12:50:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 12:50:29,110 127.0.0.1 - - [30/Jan/2025 12:50:29] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 12:50:29,111 127.0.0.1 - - [30/Jan/2025 12:50:29] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 12:50:29,148 127.0.0.1 - - [30/Jan/2025 12:50:29] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 12:50:29,152 127.0.0.1 - - [30/Jan/2025 12:50:29] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 12:50:29,691 127.0.0.1 - - [30/Jan/2025 12:50:29] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 12:50:29,710 127.0.0.1 - - [30/Jan/2025 12:50:29] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2025-01-30 12:50:29,903 127.0.0.1 - - [30/Jan/2025 12:50:29] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 12:50:32,159 127.0.0.1 - - [30/Jan/2025 12:50:32] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+2025-01-30 12:50:32,178 127.0.0.1 - - [30/Jan/2025 12:50:32] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-01-30 12:50:32,180 127.0.0.1 - - [30/Jan/2025 12:50:32] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-01-30 12:50:32,212 127.0.0.1 - - [30/Jan/2025 12:50:32] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=u1EdnZvhuR2A52ehH2vf HTTP/1.1" 200 -
+2025-01-30 12:50:32,549 127.0.0.1 - - [30/Jan/2025 12:50:32] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-01-30 12:54:38,520  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 12:54:38,548  * Restarting with stat
+2025-01-30 12:54:38,969  * Debugger is active!
+2025-01-30 12:54:39,006  * Debugger PIN: 508-715-579
+2025-01-30 12:55:00,668  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 12:55:00,693  * Restarting with stat
+2025-01-30 13:37:00,503 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 13:37:00,504 [33mPress CTRL+C to quit[0m
+2025-01-30 13:37:00,505  * Restarting with stat
+2025-01-30 13:37:00,922  * Debugger is active!
+2025-01-30 13:37:00,960  * Debugger PIN: 508-715-579
+2025-01-30 13:37:02,037 127.0.0.1 - - [30/Jan/2025 13:37:02] "GET / HTTP/1.1" 200 -
+2025-01-30 13:37:02,260 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 13:37:02,269 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 13:37:02,272 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:37:02,303 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 13:37:02,306 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 13:37:02,554 127.0.0.1 - - [30/Jan/2025 13:37:02] "GET / HTTP/1.1" 200 -
+2025-01-30 13:37:02,654 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:37:02,656 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 13:37:02,657 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 13:37:02,721 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 13:37:02,725 127.0.0.1 - - [30/Jan/2025 13:37:02] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 13:37:03,094 127.0.0.1 - - [30/Jan/2025 13:37:03] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 13:37:03,488 127.0.0.1 - - [30/Jan/2025 13:37:03] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 13:37:03,907 127.0.0.1 - - [30/Jan/2025 13:37:03] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+2025-01-30 13:37:03,922 127.0.0.1 - - [30/Jan/2025 13:37:03] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:37:03,923 127.0.0.1 - - [30/Jan/2025 13:37:03] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 13:37:03,957 127.0.0.1 - - [30/Jan/2025 13:37:03] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=4yioJNY7vR4SFjJSoFyY HTTP/1.1" 200 -
+2025-01-30 13:38:24,277 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 13:38:24,277 [33mPress CTRL+C to quit[0m
+2025-01-30 13:38:24,279  * Restarting with stat
+2025-01-30 13:38:24,692  * Debugger is active!
+2025-01-30 13:38:24,733  * Debugger PIN: 508-715-579
+2025-01-30 13:38:25,809 127.0.0.1 - - [30/Jan/2025 13:38:25] "GET / HTTP/1.1" 200 -
+2025-01-30 13:38:26,038 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:38:26,046 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 13:38:26,049 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 13:38:26,184 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 13:38:26,188 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 13:38:26,274 127.0.0.1 - - [30/Jan/2025 13:38:26] "GET / HTTP/1.1" 200 -
+2025-01-30 13:38:26,355 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:38:26,355 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 13:38:26,356 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 13:38:26,404 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 13:38:26,409 127.0.0.1 - - [30/Jan/2025 13:38:26] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 13:38:27,057 127.0.0.1 - - [30/Jan/2025 13:38:27] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 13:38:27,186 127.0.0.1 - - [30/Jan/2025 13:38:27] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 13:38:29,763 127.0.0.1 - - [30/Jan/2025 13:38:29] "GET /login HTTP/1.1" 200 -
+2025-01-30 13:44:08,914 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 13:44:08,914 [33mPress CTRL+C to quit[0m
+2025-01-30 13:44:08,916  * Restarting with stat
+2025-01-30 13:44:09,321  * Debugger is active!
+2025-01-30 13:44:09,358  * Debugger PIN: 508-715-579
+2025-01-30 13:44:10,444 127.0.0.1 - - [30/Jan/2025 13:44:10] "GET / HTTP/1.1" 200 -
+2025-01-30 13:44:10,654 127.0.0.1 - - [30/Jan/2025 13:44:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:44:10,668 127.0.0.1 - - [30/Jan/2025 13:44:10] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 13:44:10,671 127.0.0.1 - - [30/Jan/2025 13:44:10] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 13:44:10,711 127.0.0.1 - - [30/Jan/2025 13:44:10] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 13:44:10,718 127.0.0.1 - - [30/Jan/2025 13:44:10] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 13:44:10,942 127.0.0.1 - - [30/Jan/2025 13:44:10] "GET / HTTP/1.1" 200 -
+2025-01-30 13:44:11,022 127.0.0.1 - - [30/Jan/2025 13:44:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:44:11,023 127.0.0.1 - - [30/Jan/2025 13:44:11] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 13:44:11,024 127.0.0.1 - - [30/Jan/2025 13:44:11] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 13:44:11,078 127.0.0.1 - - [30/Jan/2025 13:44:11] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 13:44:11,088 127.0.0.1 - - [30/Jan/2025 13:44:11] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 13:44:11,531 127.0.0.1 - - [30/Jan/2025 13:44:11] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 13:44:11,845 127.0.0.1 - - [30/Jan/2025 13:44:11] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 13:44:13,094 127.0.0.1 - - [30/Jan/2025 13:44:13] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+2025-01-30 13:44:13,114 127.0.0.1 - - [30/Jan/2025 13:44:13] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:44:13,116 127.0.0.1 - - [30/Jan/2025 13:44:13] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 13:44:13,125 127.0.0.1 - - [30/Jan/2025 13:44:13] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=Ih68DeJx5OrcqoKfT8Td HTTP/1.1" 200 -
+2025-01-30 13:44:13,490 127.0.0.1 - - [30/Jan/2025 13:44:13] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-30 13:45:11,207 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 13:45:11,207 [33mPress CTRL+C to quit[0m
+2025-01-30 13:45:11,208  * Restarting with stat
+2025-01-30 13:45:11,619  * Debugger is active!
+2025-01-30 13:45:11,657  * Debugger PIN: 508-715-579
+2025-01-30 13:45:12,727 127.0.0.1 - - [30/Jan/2025 13:45:12] "GET / HTTP/1.1" 200 -
+2025-01-30 13:45:12,915 127.0.0.1 - - [30/Jan/2025 13:45:12] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 13:45:12,931 127.0.0.1 - - [30/Jan/2025 13:45:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:45:12,937 127.0.0.1 - - [30/Jan/2025 13:45:12] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 13:45:12,965 127.0.0.1 - - [30/Jan/2025 13:45:12] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 13:45:12,973 127.0.0.1 - - [30/Jan/2025 13:45:12] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 13:45:13,229 127.0.0.1 - - [30/Jan/2025 13:45:13] "GET / HTTP/1.1" 200 -
+2025-01-30 13:45:13,333 127.0.0.1 - - [30/Jan/2025 13:45:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:45:13,334 127.0.0.1 - - [30/Jan/2025 13:45:13] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 13:45:13,335 127.0.0.1 - - [30/Jan/2025 13:45:13] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 13:45:13,404 127.0.0.1 - - [30/Jan/2025 13:45:13] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 13:45:13,409 127.0.0.1 - - [30/Jan/2025 13:45:13] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 13:45:13,765 127.0.0.1 - - [30/Jan/2025 13:45:13] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 13:45:14,177 127.0.0.1 - - [30/Jan/2025 13:45:14] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 13:45:14,299 127.0.0.1 - - [30/Jan/2025 13:45:14] "GET /login HTTP/1.1" 200 -
+2025-01-30 13:45:14,319 127.0.0.1 - - [30/Jan/2025 13:45:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 13:45:14,320 127.0.0.1 - - [30/Jan/2025 13:45:14] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 13:45:14,321 127.0.0.1 - - [30/Jan/2025 13:45:14] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 13:45:14,330 127.0.0.1 - - [30/Jan/2025 13:45:14] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 13:45:14,333 127.0.0.1 - - [30/Jan/2025 13:45:14] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 13:45:14,698 127.0.0.1 - - [30/Jan/2025 13:45:14] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:02:36,532 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:02:36,532 [33mPress CTRL+C to quit[0m
+2025-01-30 14:02:36,534  * Restarting with stat
+2025-01-30 14:02:36,943  * Debugger is active!
+2025-01-30 14:02:36,981  * Debugger PIN: 508-715-579
+2025-01-30 14:02:38,073 127.0.0.1 - - [30/Jan/2025 14:02:38] "GET / HTTP/1.1" 200 -
+2025-01-30 14:02:38,278 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:02:38,288 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:02:38,295 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:02:38,380 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:02:38,386 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:02:38,564 127.0.0.1 - - [30/Jan/2025 14:02:38] "GET / HTTP/1.1" 200 -
+2025-01-30 14:02:38,645 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:02:38,645 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:02:38,646 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:02:38,690 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:02:38,694 127.0.0.1 - - [30/Jan/2025 14:02:38] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:02:39,204 127.0.0.1 - - [30/Jan/2025 14:02:39] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:02:39,462 127.0.0.1 - - [30/Jan/2025 14:02:39] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:02:42,284 127.0.0.1 - - [30/Jan/2025 14:02:42] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:02:42,301 127.0.0.1 - - [30/Jan/2025 14:02:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:02:42,301 127.0.0.1 - - [30/Jan/2025 14:02:42] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:02:42,302 127.0.0.1 - - [30/Jan/2025 14:02:42] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:02:42,319 127.0.0.1 - - [30/Jan/2025 14:02:42] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:02:42,323 127.0.0.1 - - [30/Jan/2025 14:02:42] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:02:42,671 127.0.0.1 - - [30/Jan/2025 14:02:42] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:05:07,302 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:05:07,302 [33mPress CTRL+C to quit[0m
+2025-01-30 14:05:07,304  * Restarting with stat
+2025-01-30 14:05:07,712  * Debugger is active!
+2025-01-30 14:05:07,749  * Debugger PIN: 508-715-579
+2025-01-30 14:05:08,818 127.0.0.1 - - [30/Jan/2025 14:05:08] "GET / HTTP/1.1" 200 -
+2025-01-30 14:05:09,017 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:05:09,035 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:05:09,040 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:05:09,165 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:05:09,169 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:05:09,268 127.0.0.1 - - [30/Jan/2025 14:05:09] "GET / HTTP/1.1" 200 -
+2025-01-30 14:05:09,376 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:05:09,377 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:05:09,378 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:05:09,453 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:05:09,457 127.0.0.1 - - [30/Jan/2025 14:05:09] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:05:10,029 127.0.0.1 - - [30/Jan/2025 14:05:10] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:05:10,215 127.0.0.1 - - [30/Jan/2025 14:05:10] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:05:10,496 127.0.0.1 - - [30/Jan/2025 14:05:10] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:05:10,518 127.0.0.1 - - [30/Jan/2025 14:05:10] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:05:10,518 127.0.0.1 - - [30/Jan/2025 14:05:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:05:10,519 127.0.0.1 - - [30/Jan/2025 14:05:10] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:05:10,529 127.0.0.1 - - [30/Jan/2025 14:05:10] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:05:10,533 127.0.0.1 - - [30/Jan/2025 14:05:10] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:05:10,780 127.0.0.1 - - [30/Jan/2025 14:05:10] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:10:09,663 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:10:09,663 [33mPress CTRL+C to quit[0m
+2025-01-30 14:10:09,665  * Restarting with stat
+2025-01-30 14:10:10,072  * Debugger is active!
+2025-01-30 14:10:10,109  * Debugger PIN: 508-715-579
+2025-01-30 14:10:11,221 127.0.0.1 - - [30/Jan/2025 14:10:11] "GET / HTTP/1.1" 200 -
+2025-01-30 14:10:11,416 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:10:11,437 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:10:11,446 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:10:11,519 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:10:11,527 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:10:11,703 127.0.0.1 - - [30/Jan/2025 14:10:11] "GET / HTTP/1.1" 200 -
+2025-01-30 14:10:11,776 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:10:11,777 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:10:11,778 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:10:11,809 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:10:11,816 127.0.0.1 - - [30/Jan/2025 14:10:11] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:10:12,339 127.0.0.1 - - [30/Jan/2025 14:10:12] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:10:12,593 127.0.0.1 - - [30/Jan/2025 14:10:12] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:10:13,957 127.0.0.1 - - [30/Jan/2025 14:10:13] "GET /signup HTTP/1.1" 200 -
+2025-01-30 14:10:13,975 127.0.0.1 - - [30/Jan/2025 14:10:13] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:10:13,976 127.0.0.1 - - [30/Jan/2025 14:10:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:10:13,976 127.0.0.1 - - [30/Jan/2025 14:10:13] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:10:13,992 127.0.0.1 - - [30/Jan/2025 14:10:13] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:10:13,996 127.0.0.1 - - [30/Jan/2025 14:10:13] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:10:14,350 127.0.0.1 - - [30/Jan/2025 14:10:14] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:12:04,010 127.0.0.1 - - [30/Jan/2025 14:12:04] "GET / HTTP/1.1" 200 -
+2025-01-30 14:12:04,033 127.0.0.1 - - [30/Jan/2025 14:12:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:12:04,034 127.0.0.1 - - [30/Jan/2025 14:12:04] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:12:04,034 127.0.0.1 - - [30/Jan/2025 14:12:04] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:12:04,045 127.0.0.1 - - [30/Jan/2025 14:12:04] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:12:04,049 127.0.0.1 - - [30/Jan/2025 14:12:04] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:12:04,398 127.0.0.1 - - [30/Jan/2025 14:12:04] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:12:04,398 127.0.0.1 - - [30/Jan/2025 14:12:04] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2025-01-30 14:12:06,899 127.0.0.1 - - [30/Jan/2025 14:12:06] "GET /signup HTTP/1.1" 200 -
+2025-01-30 14:12:06,920 127.0.0.1 - - [30/Jan/2025 14:12:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:12:06,920 127.0.0.1 - - [30/Jan/2025 14:12:06] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:12:06,921 127.0.0.1 - - [30/Jan/2025 14:12:06] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:12:06,930 127.0.0.1 - - [30/Jan/2025 14:12:06] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:12:06,936 127.0.0.1 - - [30/Jan/2025 14:12:06] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:12:07,292 127.0.0.1 - - [30/Jan/2025 14:12:07] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:12:11,495 The CSRF token is missing.
+2025-01-30 14:12:11,496 127.0.0.1 - - [30/Jan/2025 14:12:11] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-01-30 14:12:15,018 127.0.0.1 - - [30/Jan/2025 14:12:15] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:12:17,485 127.0.0.1 - - [30/Jan/2025 14:12:17] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:12:17,508 127.0.0.1 - - [30/Jan/2025 14:12:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:12:17,508 127.0.0.1 - - [30/Jan/2025 14:12:17] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:12:17,508 127.0.0.1 - - [30/Jan/2025 14:12:17] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:12:17,518 127.0.0.1 - - [30/Jan/2025 14:12:17] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:12:17,521 127.0.0.1 - - [30/Jan/2025 14:12:17] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:12:17,874 127.0.0.1 - - [30/Jan/2025 14:12:17] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:13:58,538 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:13:58,538 [33mPress CTRL+C to quit[0m
+2025-01-30 14:13:58,540  * Restarting with stat
+2025-01-30 14:13:58,949  * Debugger is active!
+2025-01-30 14:13:58,985  * Debugger PIN: 508-715-579
+2025-01-30 14:14:00,057 127.0.0.1 - - [30/Jan/2025 14:14:00] "GET / HTTP/1.1" 200 -
+2025-01-30 14:14:00,271 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:14:00,284 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:14:00,291 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:00,344 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:00,351 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:00,606 127.0.0.1 - - [30/Jan/2025 14:14:00] "GET / HTTP/1.1" 200 -
+2025-01-30 14:14:00,822 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:14:00,823 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:14:00,824 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:00,858 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:00,874 127.0.0.1 - - [30/Jan/2025 14:14:00] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:01,226 127.0.0.1 - - [30/Jan/2025 14:14:01] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:14:01,693 127.0.0.1 - - [30/Jan/2025 14:14:01] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:14:03,048 127.0.0.1 - - [30/Jan/2025 14:14:03] "GET /signup HTTP/1.1" 200 -
+2025-01-30 14:14:03,068 127.0.0.1 - - [30/Jan/2025 14:14:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:14:03,068 127.0.0.1 - - [30/Jan/2025 14:14:03] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:14:03,073 127.0.0.1 - - [30/Jan/2025 14:14:03] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:03,079 127.0.0.1 - - [30/Jan/2025 14:14:03] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:03,083 127.0.0.1 - - [30/Jan/2025 14:14:03] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:03,173 127.0.0.1 - - [30/Jan/2025 14:14:03] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:14:06,983 The CSRF token is missing.
+2025-01-30 14:14:06,984 127.0.0.1 - - [30/Jan/2025 14:14:06] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-01-30 14:14:09,031 127.0.0.1 - - [30/Jan/2025 14:14:09] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:14:14,101 The CSRF token is missing.
+2025-01-30 14:14:14,101 127.0.0.1 - - [30/Jan/2025 14:14:14] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-01-30 14:14:19,665 127.0.0.1 - - [30/Jan/2025 14:14:19] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:14:19,688 127.0.0.1 - - [30/Jan/2025 14:14:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:14:19,688 127.0.0.1 - - [30/Jan/2025 14:14:19] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:14:19,690 127.0.0.1 - - [30/Jan/2025 14:14:19] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:19,699 127.0.0.1 - - [30/Jan/2025 14:14:19] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:19,703 127.0.0.1 - - [30/Jan/2025 14:14:19] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:14:20,053 127.0.0.1 - - [30/Jan/2025 14:14:20] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:15:13,241 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:15:13,241 [33mPress CTRL+C to quit[0m
+2025-01-30 14:15:13,243  * Restarting with stat
+2025-01-30 14:15:13,655  * Debugger is active!
+2025-01-30 14:15:13,693  * Debugger PIN: 508-715-579
+2025-01-30 14:15:14,767 127.0.0.1 - - [30/Jan/2025 14:15:14] "GET / HTTP/1.1" 200 -
+2025-01-30 14:15:14,972 127.0.0.1 - - [30/Jan/2025 14:15:14] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:14,983 127.0.0.1 - - [30/Jan/2025 14:15:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:15:14,991 127.0.0.1 - - [30/Jan/2025 14:15:14] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:15:15,051 127.0.0.1 - - [30/Jan/2025 14:15:15] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:15,059 127.0.0.1 - - [30/Jan/2025 14:15:15] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:15,302 127.0.0.1 - - [30/Jan/2025 14:15:15] "GET / HTTP/1.1" 200 -
+2025-01-30 14:15:15,528 127.0.0.1 - - [30/Jan/2025 14:15:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:15:15,529 127.0.0.1 - - [30/Jan/2025 14:15:15] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:15:15,530 127.0.0.1 - - [30/Jan/2025 14:15:15] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:15,572 127.0.0.1 - - [30/Jan/2025 14:15:15] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:15,578 127.0.0.1 - - [30/Jan/2025 14:15:15] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:15,960 127.0.0.1 - - [30/Jan/2025 14:15:15] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:15:16,342 127.0.0.1 - - [30/Jan/2025 14:15:16] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:15:16,728 127.0.0.1 - - [30/Jan/2025 14:15:16] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:15:16,746 127.0.0.1 - - [30/Jan/2025 14:15:16] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:15:16,747 127.0.0.1 - - [30/Jan/2025 14:15:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:15:16,747 127.0.0.1 - - [30/Jan/2025 14:15:16] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:16,762 127.0.0.1 - - [30/Jan/2025 14:15:16] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:16,765 127.0.0.1 - - [30/Jan/2025 14:15:16] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:17,113 127.0.0.1 - - [30/Jan/2025 14:15:17] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:15:21,204 127.0.0.1 - - [30/Jan/2025 14:15:21] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:15:21,226 127.0.0.1 - - [30/Jan/2025 14:15:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:15:21,227 127.0.0.1 - - [30/Jan/2025 14:15:21] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:15:21,227 127.0.0.1 - - [30/Jan/2025 14:15:21] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:21,237 127.0.0.1 - - [30/Jan/2025 14:15:21] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:21,240 127.0.0.1 - - [30/Jan/2025 14:15:21] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:15:21,335 127.0.0.1 - - [30/Jan/2025 14:15:21] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:16:20,275 127.0.0.1 - - [30/Jan/2025 14:16:20] "GET / HTTP/1.1" 200 -
+2025-01-30 14:16:20,293 127.0.0.1 - - [30/Jan/2025 14:16:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:16:20,294 127.0.0.1 - - [30/Jan/2025 14:16:20] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:16:20,294 127.0.0.1 - - [30/Jan/2025 14:16:20] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:16:20,304 127.0.0.1 - - [30/Jan/2025 14:16:20] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:16:20,307 127.0.0.1 - - [30/Jan/2025 14:16:20] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:16:20,646 127.0.0.1 - - [30/Jan/2025 14:16:20] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:16:20,647 127.0.0.1 - - [30/Jan/2025 14:16:20] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2025-01-30 14:16:21,280 127.0.0.1 - - [30/Jan/2025 14:16:21] "GET /signup HTTP/1.1" 200 -
+2025-01-30 14:16:21,297 127.0.0.1 - - [30/Jan/2025 14:16:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:16:21,298 127.0.0.1 - - [30/Jan/2025 14:16:21] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:16:21,306 127.0.0.1 - - [30/Jan/2025 14:16:21] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:16:21,314 127.0.0.1 - - [30/Jan/2025 14:16:21] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:16:21,318 127.0.0.1 - - [30/Jan/2025 14:16:21] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:16:21,673 127.0.0.1 - - [30/Jan/2025 14:16:21] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:16:25,159 The CSRF token is missing.
+2025-01-30 14:16:25,159 127.0.0.1 - - [30/Jan/2025 14:16:25] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-01-30 14:17:26,979 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:17:26,979 [33mPress CTRL+C to quit[0m
+2025-01-30 14:17:26,981  * Restarting with stat
+2025-01-30 14:17:27,391  * Debugger is active!
+2025-01-30 14:17:27,429  * Debugger PIN: 508-715-579
+2025-01-30 14:17:28,505 127.0.0.1 - - [30/Jan/2025 14:17:28] "GET / HTTP/1.1" 200 -
+2025-01-30 14:17:28,710 127.0.0.1 - - [30/Jan/2025 14:17:28] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:28,718 127.0.0.1 - - [30/Jan/2025 14:17:28] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:28,724 127.0.0.1 - - [30/Jan/2025 14:17:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:28,779 127.0.0.1 - - [30/Jan/2025 14:17:28] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:28,785 127.0.0.1 - - [30/Jan/2025 14:17:28] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:29,091 127.0.0.1 - - [30/Jan/2025 14:17:29] "GET / HTTP/1.1" 200 -
+2025-01-30 14:17:29,358 127.0.0.1 - - [30/Jan/2025 14:17:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:29,359 127.0.0.1 - - [30/Jan/2025 14:17:29] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:29,360 127.0.0.1 - - [30/Jan/2025 14:17:29] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:29,411 127.0.0.1 - - [30/Jan/2025 14:17:29] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:29,416 127.0.0.1 - - [30/Jan/2025 14:17:29] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:29,816 127.0.0.1 - - [30/Jan/2025 14:17:29] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:17:30,211 127.0.0.1 - - [30/Jan/2025 14:17:30] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:17:30,408 127.0.0.1 - - [30/Jan/2025 14:17:30] "GET /signup HTTP/1.1" 200 -
+2025-01-30 14:17:30,432 127.0.0.1 - - [30/Jan/2025 14:17:30] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:30,432 127.0.0.1 - - [30/Jan/2025 14:17:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:30,432 127.0.0.1 - - [30/Jan/2025 14:17:30] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:30,444 127.0.0.1 - - [30/Jan/2025 14:17:30] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:30,448 127.0.0.1 - - [30/Jan/2025 14:17:30] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:30,542 127.0.0.1 - - [30/Jan/2025 14:17:30] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:17:36,177 127.0.0.1 - - [30/Jan/2025 14:17:36] "GET /signup HTTP/1.1" 200 -
+2025-01-30 14:17:36,203 127.0.0.1 - - [30/Jan/2025 14:17:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:36,203 127.0.0.1 - - [30/Jan/2025 14:17:36] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:36,203 127.0.0.1 - - [30/Jan/2025 14:17:36] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:36,212 127.0.0.1 - - [30/Jan/2025 14:17:36] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:36,215 127.0.0.1 - - [30/Jan/2025 14:17:36] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:36,306 127.0.0.1 - - [30/Jan/2025 14:17:36] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:17:38,382 127.0.0.1 - - [30/Jan/2025 14:17:38] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:17:38,404 127.0.0.1 - - [30/Jan/2025 14:17:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:38,405 127.0.0.1 - - [30/Jan/2025 14:17:38] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:38,405 127.0.0.1 - - [30/Jan/2025 14:17:38] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:38,415 127.0.0.1 - - [30/Jan/2025 14:17:38] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:38,418 127.0.0.1 - - [30/Jan/2025 14:17:38] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:38,507 127.0.0.1 - - [30/Jan/2025 14:17:38] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:17:42,926 127.0.0.1 - - [30/Jan/2025 14:17:42] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:17:42,950 127.0.0.1 - - [30/Jan/2025 14:17:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:42,950 127.0.0.1 - - [30/Jan/2025 14:17:42] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:17:42,950 127.0.0.1 - - [30/Jan/2025 14:17:42] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:42,957 127.0.0.1 - - [30/Jan/2025 14:17:42] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:42,960 127.0.0.1 - - [30/Jan/2025 14:17:42] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:17:43,049 127.0.0.1 - - [30/Jan/2025 14:17:43] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:19:21,421 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:19:21,421 [33mPress CTRL+C to quit[0m
+2025-01-30 14:19:21,423  * Restarting with stat
+2025-01-30 14:19:21,835  * Debugger is active!
+2025-01-30 14:19:21,873  * Debugger PIN: 508-715-579
+2025-01-30 14:19:22,932 127.0.0.1 - - [30/Jan/2025 14:19:22] "GET / HTTP/1.1" 200 -
+2025-01-30 14:19:23,149 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:19:23,160 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:19:23,164 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:19:23,205 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:19:23,211 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:19:23,461 127.0.0.1 - - [30/Jan/2025 14:19:23] "GET / HTTP/1.1" 200 -
+2025-01-30 14:19:23,638 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:19:23,639 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:19:23,639 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:19:23,675 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:19:23,679 127.0.0.1 - - [30/Jan/2025 14:19:23] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:19:24,036 127.0.0.1 - - [30/Jan/2025 14:19:24] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:19:24,465 127.0.0.1 - - [30/Jan/2025 14:19:24] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:19:25,499 127.0.0.1 - - [30/Jan/2025 14:19:25] "GET /signup HTTP/1.1" 200 -
+2025-01-30 14:19:25,517 127.0.0.1 - - [30/Jan/2025 14:19:25] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:19:25,517 127.0.0.1 - - [30/Jan/2025 14:19:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:19:25,518 127.0.0.1 - - [30/Jan/2025 14:19:25] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:19:25,530 127.0.0.1 - - [30/Jan/2025 14:19:25] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:19:25,536 127.0.0.1 - - [30/Jan/2025 14:19:25] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:19:25,625 127.0.0.1 - - [30/Jan/2025 14:19:25] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:19:32,699 127.0.0.1 - - [30/Jan/2025 14:19:32] "[33mPOST /signup.html HTTP/1.1[0m" 404 -
+2025-01-30 14:20:01,980 127.0.0.1 - - [30/Jan/2025 14:20:01] "[33mPOST /signup.html HTTP/1.1[0m" 404 -
+2025-01-30 14:31:19,240 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:31:19,240 [33mPress CTRL+C to quit[0m
+2025-01-30 14:31:19,241  * Restarting with stat
+2025-01-30 14:31:19,651  * Debugger is active!
+2025-01-30 14:31:19,687  * Debugger PIN: 508-715-579
+2025-01-30 14:31:20,777 127.0.0.1 - - [30/Jan/2025 14:31:20] "GET / HTTP/1.1" 200 -
+2025-01-30 14:31:21,012 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:31:21,020 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:31:21,023 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:31:21,171 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:31:21,181 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:31:21,248 127.0.0.1 - - [30/Jan/2025 14:31:21] "GET / HTTP/1.1" 200 -
+2025-01-30 14:31:21,326 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:31:21,327 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:31:21,328 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:31:21,366 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:31:21,398 127.0.0.1 - - [30/Jan/2025 14:31:21] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:31:22,055 127.0.0.1 - - [30/Jan/2025 14:31:22] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:31:22,177 127.0.0.1 - - [30/Jan/2025 14:31:22] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:31:22,496 127.0.0.1 - - [30/Jan/2025 14:31:22] "[33mGET /privacy.html HTTP/1.1[0m" 404 -
+2025-01-30 14:31:25,992 127.0.0.1 - - [30/Jan/2025 14:31:25] "[35m[1mGET /signup HTTP/1.1[0m" 500 -
+2025-01-30 14:31:26,013 127.0.0.1 - - [30/Jan/2025 14:31:26] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-01-30 14:31:26,015 127.0.0.1 - - [30/Jan/2025 14:31:26] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-01-30 14:31:26,020 127.0.0.1 - - [30/Jan/2025 14:31:26] "GET /signup?__debugger__=yes&cmd=resource&f=console.png&s=xv5tDf7P8w7k749vgK77 HTTP/1.1" 200 -
+2025-01-30 14:31:26,401 127.0.0.1 - - [30/Jan/2025 14:31:26] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-01-30 14:33:18,049  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 14:33:18,077  * Restarting with stat
+2025-01-30 14:33:18,495  * Debugger is active!
+2025-01-30 14:33:18,532  * Debugger PIN: 508-715-579
+2025-01-30 14:33:20,016 127.0.0.1 - - [30/Jan/2025 14:33:20] "GET / HTTP/1.1" 200 -
+2025-01-30 14:33:20,215 127.0.0.1 - - [30/Jan/2025 14:33:20] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:33:20,223 127.0.0.1 - - [30/Jan/2025 14:33:20] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:20,229 127.0.0.1 - - [30/Jan/2025 14:33:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:33:20,265 127.0.0.1 - - [30/Jan/2025 14:33:20] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:20,271 127.0.0.1 - - [30/Jan/2025 14:33:20] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:21,205 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:33:21,206 [33mPress CTRL+C to quit[0m
+2025-01-30 14:33:21,207  * Restarting with stat
+2025-01-30 14:33:21,627  * Debugger is active!
+2025-01-30 14:33:21,665  * Debugger PIN: 508-715-579
+2025-01-30 14:33:21,750 127.0.0.1 - - [30/Jan/2025 14:33:21] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:33:22,712 127.0.0.1 - - [30/Jan/2025 14:33:22] "GET / HTTP/1.1" 200 -
+2025-01-30 14:33:22,814 127.0.0.1 - - [30/Jan/2025 14:33:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:33:22,815 127.0.0.1 - - [30/Jan/2025 14:33:22] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:33:22,815 127.0.0.1 - - [30/Jan/2025 14:33:22] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:22,886 127.0.0.1 - - [30/Jan/2025 14:33:22] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:22,892 127.0.0.1 - - [30/Jan/2025 14:33:22] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:23,172 127.0.0.1 - - [30/Jan/2025 14:33:23] "GET / HTTP/1.1" 200 -
+2025-01-30 14:33:23,248 127.0.0.1 - - [30/Jan/2025 14:33:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:33:23,249 127.0.0.1 - - [30/Jan/2025 14:33:23] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:33:23,249 127.0.0.1 - - [30/Jan/2025 14:33:23] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:23,351 127.0.0.1 - - [30/Jan/2025 14:33:23] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:23,363 127.0.0.1 - - [30/Jan/2025 14:33:23] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:23,715 127.0.0.1 - - [30/Jan/2025 14:33:23] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:33:24,125 127.0.0.1 - - [30/Jan/2025 14:33:24] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:33:24,836 127.0.0.1 - - [30/Jan/2025 14:33:24] "[35m[1mGET /signup HTTP/1.1[0m" 500 -
+2025-01-30 14:33:24,859 127.0.0.1 - - [30/Jan/2025 14:33:24] "[36mGET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:33:24,860 127.0.0.1 - - [30/Jan/2025 14:33:24] "[36mGET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 14:33:24,866 127.0.0.1 - - [30/Jan/2025 14:33:24] "GET /signup?__debugger__=yes&cmd=resource&f=console.png&s=xD6fzcmxca0I6FW1NfaM HTTP/1.1" 200 -
+2025-01-30 14:34:03,914  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 14:34:03,949  * Restarting with stat
+2025-01-30 14:35:48,466 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 14:35:48,466 [33mPress CTRL+C to quit[0m
+2025-01-30 14:35:48,467  * Restarting with stat
+2025-01-30 14:35:48,888  * Debugger is active!
+2025-01-30 14:35:48,926  * Debugger PIN: 508-715-579
+2025-01-30 14:35:49,992 127.0.0.1 - - [30/Jan/2025 14:35:49] "GET / HTTP/1.1" 200 -
+2025-01-30 14:35:50,205 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:35:50,211 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:35:50,217 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:35:50,273 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:35:50,278 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:35:50,518 127.0.0.1 - - [30/Jan/2025 14:35:50] "GET / HTTP/1.1" 200 -
+2025-01-30 14:35:50,599 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:35:50,600 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:35:50,601 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:35:50,650 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:35:50,659 127.0.0.1 - - [30/Jan/2025 14:35:50] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:35:51,084 127.0.0.1 - - [30/Jan/2025 14:35:51] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:35:51,421 127.0.0.1 - - [30/Jan/2025 14:35:51] "GET /signup HTTP/1.1" 200 -
+2025-01-30 14:35:51,423 127.0.0.1 - - [30/Jan/2025 14:35:51] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:35:51,455 127.0.0.1 - - [30/Jan/2025 14:35:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:35:51,456 127.0.0.1 - - [30/Jan/2025 14:35:51] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:35:51,457 127.0.0.1 - - [30/Jan/2025 14:35:51] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:35:51,483 127.0.0.1 - - [30/Jan/2025 14:35:51] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:35:51,488 127.0.0.1 - - [30/Jan/2025 14:35:51] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:35:51,823 127.0.0.1 - - [30/Jan/2025 14:35:51] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:35:56,295 127.0.0.1 - - [30/Jan/2025 14:35:56] "[33mPOST /signup.html HTTP/1.1[0m" 404 -
+2025-01-30 14:36:05,205 127.0.0.1 - - [30/Jan/2025 14:36:05] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:36:05,230 127.0.0.1 - - [30/Jan/2025 14:36:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:05,230 127.0.0.1 - - [30/Jan/2025 14:36:05] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:05,231 127.0.0.1 - - [30/Jan/2025 14:36:05] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:05,240 127.0.0.1 - - [30/Jan/2025 14:36:05] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:05,242 127.0.0.1 - - [30/Jan/2025 14:36:05] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:05,605 127.0.0.1 - - [30/Jan/2025 14:36:05] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:36:13,586 127.0.0.1 - - [30/Jan/2025 14:36:13] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:36:13,612 127.0.0.1 - - [30/Jan/2025 14:36:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:13,613 127.0.0.1 - - [30/Jan/2025 14:36:13] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:13,614 127.0.0.1 - - [30/Jan/2025 14:36:13] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:13,622 127.0.0.1 - - [30/Jan/2025 14:36:13] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:13,625 127.0.0.1 - - [30/Jan/2025 14:36:13] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:13,740 127.0.0.1 - - [30/Jan/2025 14:36:13] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,462 127.0.0.1 - - [30/Jan/2025 14:36:15] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:36:15,481 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,481 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,481 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,490 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,493 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,581 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,901 127.0.0.1 - - [30/Jan/2025 14:36:15] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:36:15,921 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,923 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,923 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,931 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:15,935 127.0.0.1 - - [30/Jan/2025 14:36:15] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:16,050 127.0.0.1 - - [30/Jan/2025 14:36:16] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 14:36:16,380 127.0.0.1 - - [30/Jan/2025 14:36:16] "GET /login HTTP/1.1" 200 -
+2025-01-30 14:36:16,398 127.0.0.1 - - [30/Jan/2025 14:36:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:16,398 127.0.0.1 - - [30/Jan/2025 14:36:16] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 14:36:16,399 127.0.0.1 - - [30/Jan/2025 14:36:16] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:16,410 127.0.0.1 - - [30/Jan/2025 14:36:16] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:16,414 127.0.0.1 - - [30/Jan/2025 14:36:16] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 14:36:16,505 127.0.0.1 - - [30/Jan/2025 14:36:16] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:51:40,009  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 15:51:40,039  * Restarting with stat
+2025-01-30 15:51:40,494  * Debugger is active!
+2025-01-30 15:51:40,531  * Debugger PIN: 508-715-579
+2025-01-30 15:51:42,033 127.0.0.1 - - [30/Jan/2025 15:51:42] "GET / HTTP/1.1" 200 -
+2025-01-30 15:51:42,249 127.0.0.1 - - [30/Jan/2025 15:51:42] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:51:42,265 127.0.0.1 - - [30/Jan/2025 15:51:42] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:51:42,273 127.0.0.1 - - [30/Jan/2025 15:51:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:51:42,320 127.0.0.1 - - [30/Jan/2025 15:51:42] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:51:42,464 127.0.0.1 - - [30/Jan/2025 15:51:42] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:51:43,224 127.0.0.1 - - [30/Jan/2025 15:51:43] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:51:56,024  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 15:51:56,058  * Restarting with stat
+2025-01-30 15:51:56,484  * Debugger is active!
+2025-01-30 15:51:56,521  * Debugger PIN: 508-715-579
+2025-01-30 15:51:59,962 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 15:51:59,963 [33mPress CTRL+C to quit[0m
+2025-01-30 15:51:59,964  * Restarting with stat
+2025-01-30 15:52:00,371  * Debugger is active!
+2025-01-30 15:52:00,408  * Debugger PIN: 508-715-579
+2025-01-30 15:52:00,454 127.0.0.1 - - [30/Jan/2025 15:52:00] "GET / HTTP/1.1" 200 -
+2025-01-30 15:52:00,647 127.0.0.1 - - [30/Jan/2025 15:52:00] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:00,655 127.0.0.1 - - [30/Jan/2025 15:52:00] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:00,658 127.0.0.1 - - [30/Jan/2025 15:52:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:00,780 127.0.0.1 - - [30/Jan/2025 15:52:00] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:00,784 127.0.0.1 - - [30/Jan/2025 15:52:00] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:01,469 127.0.0.1 - - [30/Jan/2025 15:52:01] "GET / HTTP/1.1" 200 -
+2025-01-30 15:52:01,532 127.0.0.1 - - [30/Jan/2025 15:52:01] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:52:01,626 127.0.0.1 - - [30/Jan/2025 15:52:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:01,629 127.0.0.1 - - [30/Jan/2025 15:52:01] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:01,630 127.0.0.1 - - [30/Jan/2025 15:52:01] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:01,724 127.0.0.1 - - [30/Jan/2025 15:52:01] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:01,728 127.0.0.1 - - [30/Jan/2025 15:52:01] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:01,929 127.0.0.1 - - [30/Jan/2025 15:52:01] "GET / HTTP/1.1" 200 -
+2025-01-30 15:52:02,009 127.0.0.1 - - [30/Jan/2025 15:52:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:02,009 127.0.0.1 - - [30/Jan/2025 15:52:02] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:02,010 127.0.0.1 - - [30/Jan/2025 15:52:02] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:02,057 127.0.0.1 - - [30/Jan/2025 15:52:02] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:02,068 127.0.0.1 - - [30/Jan/2025 15:52:02] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:02,700 127.0.0.1 - - [30/Jan/2025 15:52:02] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:52:02,846 127.0.0.1 - - [30/Jan/2025 15:52:02] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:52:04,417 127.0.0.1 - - [30/Jan/2025 15:52:04] "GET /login HTTP/1.1" 200 -
+2025-01-30 15:52:04,441 127.0.0.1 - - [30/Jan/2025 15:52:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:04,441 127.0.0.1 - - [30/Jan/2025 15:52:04] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:04,442 127.0.0.1 - - [30/Jan/2025 15:52:04] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:04,453 127.0.0.1 - - [30/Jan/2025 15:52:04] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:04,457 127.0.0.1 - - [30/Jan/2025 15:52:04] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:04,801 127.0.0.1 - - [30/Jan/2025 15:52:04] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:52:10,004 The CSRF token is missing.
+2025-01-30 15:52:10,004 127.0.0.1 - - [30/Jan/2025 15:52:10] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-30 15:52:12,331 127.0.0.1 - - [30/Jan/2025 15:52:12] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:52:14,609 127.0.0.1 - - [30/Jan/2025 15:52:14] "GET /signup HTTP/1.1" 200 -
+2025-01-30 15:52:14,633 127.0.0.1 - - [30/Jan/2025 15:52:14] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:14,634 127.0.0.1 - - [30/Jan/2025 15:52:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:52:14,634 127.0.0.1 - - [30/Jan/2025 15:52:14] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:14,640 127.0.0.1 - - [30/Jan/2025 15:52:14] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:14,643 127.0.0.1 - - [30/Jan/2025 15:52:14] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:52:14,732 127.0.0.1 - - [30/Jan/2025 15:52:14] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:52:21,879 The CSRF token is missing.
+2025-01-30 15:52:21,879 127.0.0.1 - - [30/Jan/2025 15:52:21] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-01-30 15:53:44,409  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 15:53:44,438  * Restarting with stat
+2025-01-30 15:53:44,864  * Debugger is active!
+2025-01-30 15:53:44,901  * Debugger PIN: 508-715-579
+2025-01-30 15:53:46,393 127.0.0.1 - - [30/Jan/2025 15:53:46] "GET / HTTP/1.1" 200 -
+2025-01-30 15:53:46,626 127.0.0.1 - - [30/Jan/2025 15:53:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:53:46,638 127.0.0.1 - - [30/Jan/2025 15:53:46] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:53:46,642 127.0.0.1 - - [30/Jan/2025 15:53:46] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:53:46,809 127.0.0.1 - - [30/Jan/2025 15:53:46] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:53:46,814 127.0.0.1 - - [30/Jan/2025 15:53:46] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:53:47,563 127.0.0.1 - - [30/Jan/2025 15:53:47] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:54:35,538 127.0.0.1 - - [30/Jan/2025 15:54:35] "GET /login HTTP/1.1" 200 -
+2025-01-30 15:54:35,581 127.0.0.1 - - [30/Jan/2025 15:54:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:54:35,583 127.0.0.1 - - [30/Jan/2025 15:54:35] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:54:35,584 127.0.0.1 - - [30/Jan/2025 15:54:35] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:54:35,592 127.0.0.1 - - [30/Jan/2025 15:54:35] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:54:35,597 127.0.0.1 - - [30/Jan/2025 15:54:35] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:54:35,941 127.0.0.1 - - [30/Jan/2025 15:54:35] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:54:36,491 127.0.0.1 - - [30/Jan/2025 15:54:36] "GET /signup HTTP/1.1" 200 -
+2025-01-30 15:54:36,514 127.0.0.1 - - [30/Jan/2025 15:54:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:54:36,514 127.0.0.1 - - [30/Jan/2025 15:54:36] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:54:36,515 127.0.0.1 - - [30/Jan/2025 15:54:36] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:54:36,522 127.0.0.1 - - [30/Jan/2025 15:54:36] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:54:36,526 127.0.0.1 - - [30/Jan/2025 15:54:36] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:54:36,645 127.0.0.1 - - [30/Jan/2025 15:54:36] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:54:37,335 127.0.0.1 - - [30/Jan/2025 15:54:37] "[32mGET /index.html HTTP/1.1[0m" 302 -
+2025-01-30 15:54:37,341 127.0.0.1 - - [30/Jan/2025 15:54:37] "GET / HTTP/1.1" 200 -
+2025-01-30 15:54:37,367 127.0.0.1 - - [30/Jan/2025 15:54:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:54:37,367 127.0.0.1 - - [30/Jan/2025 15:54:37] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 15:54:37,368 127.0.0.1 - - [30/Jan/2025 15:54:37] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 15:54:37,374 127.0.0.1 - - [30/Jan/2025 15:54:37] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 15:54:37,377 127.0.0.1 - - [30/Jan/2025 15:54:37] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 15:54:37,468 127.0.0.1 - - [30/Jan/2025 15:54:37] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 15:54:38,342 127.0.0.1 - - [30/Jan/2025 15:54:38] "[33mGET /privacy.html HTTP/1.1[0m" 404 -
+2025-01-30 15:54:41,397 127.0.0.1 - - [30/Jan/2025 15:54:41] "[33mGET /form.html HTTP/1.1[0m" 404 -
+2025-01-30 15:59:18,783 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 15:59:18,783 [33mPress CTRL+C to quit[0m
+2025-01-30 15:59:18,785  * Restarting with stat
+2025-01-30 15:59:19,198  * Debugger is active!
+2025-01-30 15:59:19,236  * Debugger PIN: 508-715-579
+2025-01-30 15:59:20,331 127.0.0.1 - - [30/Jan/2025 15:59:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 15:59:20,450 127.0.0.1 - - [30/Jan/2025 15:59:20] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 15:59:20,453 127.0.0.1 - - [30/Jan/2025 15:59:20] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:59:20,546 127.0.0.1 - - [30/Jan/2025 15:59:20] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=fXYMqPKeF3s6XejTLwop HTTP/1.1" 200 -
+2025-01-30 15:59:20,840 127.0.0.1 - - [30/Jan/2025 15:59:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 15:59:20,856 127.0.0.1 - - [30/Jan/2025 15:59:20] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 15:59:20,857 127.0.0.1 - - [30/Jan/2025 15:59:20] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 15:59:20,914 127.0.0.1 - - [30/Jan/2025 15:59:20] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=fXYMqPKeF3s6XejTLwop HTTP/1.1[0m" 304 -
+2025-01-30 15:59:21,341 127.0.0.1 - - [30/Jan/2025 15:59:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-30 16:02:14,225  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 16:02:14,255  * Restarting with stat
+2025-01-30 16:02:14,677  * Debugger is active!
+2025-01-30 16:02:14,714  * Debugger PIN: 508-715-579
+2025-01-30 16:02:16,225 127.0.0.1 - - [30/Jan/2025 16:02:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:02:16,327 127.0.0.1 - - [30/Jan/2025 16:02:16] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:02:16,333 127.0.0.1 - - [30/Jan/2025 16:02:16] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:02:16,429 127.0.0.1 - - [30/Jan/2025 16:02:16] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=uosCsni44ckEfWfzSl7f HTTP/1.1" 200 -
+2025-01-30 16:08:33,865 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 16:08:33,866 [33mPress CTRL+C to quit[0m
+2025-01-30 16:08:33,867  * Restarting with stat
+2025-01-30 16:08:34,282  * Debugger is active!
+2025-01-30 16:08:34,319  * Debugger PIN: 508-715-579
+2025-01-30 16:08:35,409 127.0.0.1 - - [30/Jan/2025 16:08:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:08:35,521 127.0.0.1 - - [30/Jan/2025 16:08:35] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:08:35,524 127.0.0.1 - - [30/Jan/2025 16:08:35] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:08:35,613 127.0.0.1 - - [30/Jan/2025 16:08:35] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=xspT9joiUVIPJGDDe077 HTTP/1.1" 200 -
+2025-01-30 16:08:35,929 127.0.0.1 - - [30/Jan/2025 16:08:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:08:35,948 127.0.0.1 - - [30/Jan/2025 16:08:35] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:08:35,949 127.0.0.1 - - [30/Jan/2025 16:08:35] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:08:36,005 127.0.0.1 - - [30/Jan/2025 16:08:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=xspT9joiUVIPJGDDe077 HTTP/1.1[0m" 304 -
+2025-01-30 16:12:28,981  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 16:12:29,022  * Restarting with stat
+2025-01-30 16:12:29,450  * Debugger is active!
+2025-01-30 16:12:29,488  * Debugger PIN: 508-715-579
+2025-01-30 16:12:30,996 127.0.0.1 - - [30/Jan/2025 16:12:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:12:31,100 127.0.0.1 - - [30/Jan/2025 16:12:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:12:31,104 127.0.0.1 - - [30/Jan/2025 16:12:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:12:31,202 127.0.0.1 - - [30/Jan/2025 16:12:31] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=3mBb9NgPvxRXlf4LI0K8 HTTP/1.1" 200 -
+2025-01-30 16:12:57,328  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\userManagement.py', reloading
+2025-01-30 16:12:57,359  * Restarting with stat
+2025-01-30 16:12:57,777  * Debugger is active!
+2025-01-30 16:12:57,815  * Debugger PIN: 508-715-579
+2025-01-30 16:12:59,319 127.0.0.1 - - [30/Jan/2025 16:12:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:12:59,414 127.0.0.1 - - [30/Jan/2025 16:12:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:12:59,417 127.0.0.1 - - [30/Jan/2025 16:12:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:12:59,489 127.0.0.1 - - [30/Jan/2025 16:12:59] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=NFAcxySz7kqeMDEowZ3g HTTP/1.1" 200 -
+2025-01-30 16:16:31,384 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 16:16:31,384 [33mPress CTRL+C to quit[0m
+2025-01-30 16:16:31,386  * Restarting with stat
+2025-01-30 16:16:31,798  * Debugger is active!
+2025-01-30 16:16:31,836  * Debugger PIN: 508-715-579
+2025-01-30 16:16:32,929 127.0.0.1 - - [30/Jan/2025 16:16:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:16:33,034 127.0.0.1 - - [30/Jan/2025 16:16:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:16:33,046 127.0.0.1 - - [30/Jan/2025 16:16:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:16:33,116 127.0.0.1 - - [30/Jan/2025 16:16:33] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=60pBmcrjFwC7AdtLp4HJ HTTP/1.1" 200 -
+2025-01-30 16:16:33,443 127.0.0.1 - - [30/Jan/2025 16:16:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:16:33,458 127.0.0.1 - - [30/Jan/2025 16:16:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:16:33,459 127.0.0.1 - - [30/Jan/2025 16:16:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:16:33,551 127.0.0.1 - - [30/Jan/2025 16:16:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=60pBmcrjFwC7AdtLp4HJ HTTP/1.1[0m" 304 -
+2025-01-30 16:18:38,439  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 16:18:38,470  * Restarting with stat
+2025-01-30 16:18:38,897  * Debugger is active!
+2025-01-30 16:18:38,934  * Debugger PIN: 508-715-579
+2025-01-30 16:18:40,431 127.0.0.1 - - [30/Jan/2025 16:18:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:18:40,538 127.0.0.1 - - [30/Jan/2025 16:18:40] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:18:40,542 127.0.0.1 - - [30/Jan/2025 16:18:40] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:18:40,577 127.0.0.1 - - [30/Jan/2025 16:18:40] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=UAGa4yOXqkhQuPSaFGw8 HTTP/1.1" 200 -
+2025-01-30 16:19:58,423 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 16:19:58,423 [33mPress CTRL+C to quit[0m
+2025-01-30 16:19:58,425  * Restarting with stat
+2025-01-30 16:19:58,829  * Debugger is active!
+2025-01-30 16:19:58,866  * Debugger PIN: 508-715-579
+2025-01-30 16:19:59,942 127.0.0.1 - - [30/Jan/2025 16:19:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:20:00,062 127.0.0.1 - - [30/Jan/2025 16:20:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:20:00,070 127.0.0.1 - - [30/Jan/2025 16:20:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:20:00,146 127.0.0.1 - - [30/Jan/2025 16:20:00] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=a9Qxbry5cczdZAkfSTDl HTTP/1.1" 200 -
+2025-01-30 16:20:00,439 127.0.0.1 - - [30/Jan/2025 16:20:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:20:00,453 127.0.0.1 - - [30/Jan/2025 16:20:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:20:00,454 127.0.0.1 - - [30/Jan/2025 16:20:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:20:00,516 127.0.0.1 - - [30/Jan/2025 16:20:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=a9Qxbry5cczdZAkfSTDl HTTP/1.1[0m" 304 -
+2025-01-30 16:22:47,729  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 16:22:47,762  * Restarting with stat
+2025-01-30 16:22:48,185  * Debugger is active!
+2025-01-30 16:22:48,223  * Debugger PIN: 508-715-579
+2025-01-30 16:22:49,737 127.0.0.1 - - [30/Jan/2025 16:22:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:22:49,842 127.0.0.1 - - [30/Jan/2025 16:22:49] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:22:49,845 127.0.0.1 - - [30/Jan/2025 16:22:49] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:22:49,885 127.0.0.1 - - [30/Jan/2025 16:22:49] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=zLFQWEZVvEiyxCm0KaxJ HTTP/1.1" 200 -
+2025-01-30 16:22:52,311 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 16:22:52,312 [33mPress CTRL+C to quit[0m
+2025-01-30 16:22:52,313  * Restarting with stat
+2025-01-30 16:22:52,734  * Debugger is active!
+2025-01-30 16:22:52,772  * Debugger PIN: 508-715-579
+2025-01-30 16:22:53,851 127.0.0.1 - - [30/Jan/2025 16:22:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:22:53,951 127.0.0.1 - - [30/Jan/2025 16:22:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:22:53,955 127.0.0.1 - - [30/Jan/2025 16:22:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:22:54,042 127.0.0.1 - - [30/Jan/2025 16:22:54] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=aiKnlnGptLzWmlqvPbLo HTTP/1.1" 200 -
+2025-01-30 16:22:54,318 127.0.0.1 - - [30/Jan/2025 16:22:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:22:54,334 127.0.0.1 - - [30/Jan/2025 16:22:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:22:54,334 127.0.0.1 - - [30/Jan/2025 16:22:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:22:54,421 127.0.0.1 - - [30/Jan/2025 16:22:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=aiKnlnGptLzWmlqvPbLo HTTP/1.1[0m" 304 -
+2025-01-30 16:23:24,746  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 16:23:24,781  * Restarting with stat
+2025-01-30 16:23:25,227  * Debugger is active!
+2025-01-30 16:23:25,267  * Debugger PIN: 508-715-579
+2025-01-30 16:23:26,803 127.0.0.1 - - [30/Jan/2025 16:23:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:23:26,911 127.0.0.1 - - [30/Jan/2025 16:23:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:23:26,914 127.0.0.1 - - [30/Jan/2025 16:23:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:23:27,002 127.0.0.1 - - [30/Jan/2025 16:23:27] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=gEdtwft5bmTdUl5P85NS HTTP/1.1" 200 -
+2025-01-30 16:24:06,368 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 16:24:06,368 [33mPress CTRL+C to quit[0m
+2025-01-30 16:24:06,370  * Restarting with stat
+2025-01-30 16:24:06,776  * Debugger is active!
+2025-01-30 16:24:06,813  * Debugger PIN: 508-715-579
+2025-01-30 16:24:07,933 127.0.0.1 - - [30/Jan/2025 16:24:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:24:08,048 127.0.0.1 - - [30/Jan/2025 16:24:08] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:24:08,054 127.0.0.1 - - [30/Jan/2025 16:24:08] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:24:08,135 127.0.0.1 - - [30/Jan/2025 16:24:08] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=rNthKidV79sUIziRUvD9 HTTP/1.1" 200 -
+2025-01-30 16:24:08,439 127.0.0.1 - - [30/Jan/2025 16:24:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-30 16:24:08,458 127.0.0.1 - - [30/Jan/2025 16:24:08] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:24:08,458 127.0.0.1 - - [30/Jan/2025 16:24:08] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-30 16:24:08,657 127.0.0.1 - - [30/Jan/2025 16:24:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=rNthKidV79sUIziRUvD9 HTTP/1.1[0m" 304 -
+2025-01-30 16:26:37,878 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 16:26:37,878 [33mPress CTRL+C to quit[0m
+2025-01-30 16:26:37,880  * Restarting with stat
+2025-01-30 16:26:38,290  * Debugger is active!
+2025-01-30 16:26:38,328  * Debugger PIN: 508-715-579
+2025-01-30 16:26:39,403 127.0.0.1 - - [30/Jan/2025 16:26:39] "GET / HTTP/1.1" 200 -
+2025-01-30 16:26:39,580 127.0.0.1 - - [30/Jan/2025 16:26:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:26:39,599 127.0.0.1 - - [30/Jan/2025 16:26:39] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:26:39,604 127.0.0.1 - - [30/Jan/2025 16:26:39] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:26:39,638 127.0.0.1 - - [30/Jan/2025 16:26:39] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:26:39,644 127.0.0.1 - - [30/Jan/2025 16:26:39] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:26:39,904 127.0.0.1 - - [30/Jan/2025 16:26:39] "GET / HTTP/1.1" 200 -
+2025-01-30 16:26:40,006 127.0.0.1 - - [30/Jan/2025 16:26:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:26:40,007 127.0.0.1 - - [30/Jan/2025 16:26:40] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:26:40,008 127.0.0.1 - - [30/Jan/2025 16:26:40] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:26:40,076 127.0.0.1 - - [30/Jan/2025 16:26:40] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:26:40,081 127.0.0.1 - - [30/Jan/2025 16:26:40] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:26:40,675 127.0.0.1 - - [30/Jan/2025 16:26:40] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:26:40,856 127.0.0.1 - - [30/Jan/2025 16:26:40] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:26:49,056 127.0.0.1 - - [30/Jan/2025 16:26:49] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-30 16:28:14,084  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-30 16:28:14,129  * Restarting with stat
+2025-01-30 16:28:14,551  * Debugger is active!
+2025-01-30 16:28:14,590  * Debugger PIN: 508-715-579
+2025-01-30 16:28:16,095 127.0.0.1 - - [30/Jan/2025 16:28:16] "GET / HTTP/1.1" 200 -
+2025-01-30 16:28:16,300 127.0.0.1 - - [30/Jan/2025 16:28:16] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:16,311 127.0.0.1 - - [30/Jan/2025 16:28:16] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:16,315 127.0.0.1 - - [30/Jan/2025 16:28:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:16,413 127.0.0.1 - - [30/Jan/2025 16:28:16] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:16,420 127.0.0.1 - - [30/Jan/2025 16:28:16] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:17,169 127.0.0.1 - - [30/Jan/2025 16:28:17] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:29,070 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 16:28:29,070 [33mPress CTRL+C to quit[0m
+2025-01-30 16:28:29,072  * Restarting with stat
+2025-01-30 16:28:29,479  * Debugger is active!
+2025-01-30 16:28:29,517  * Debugger PIN: 508-715-579
+2025-01-30 16:28:30,588 127.0.0.1 - - [30/Jan/2025 16:28:30] "GET / HTTP/1.1" 200 -
+2025-01-30 16:28:30,805 127.0.0.1 - - [30/Jan/2025 16:28:30] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:30,813 127.0.0.1 - - [30/Jan/2025 16:28:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:30,816 127.0.0.1 - - [30/Jan/2025 16:28:30] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:30,845 127.0.0.1 - - [30/Jan/2025 16:28:30] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:30,848 127.0.0.1 - - [30/Jan/2025 16:28:30] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:31,050 127.0.0.1 - - [30/Jan/2025 16:28:31] "GET / HTTP/1.1" 200 -
+2025-01-30 16:28:31,124 127.0.0.1 - - [30/Jan/2025 16:28:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:31,125 127.0.0.1 - - [30/Jan/2025 16:28:31] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:31,126 127.0.0.1 - - [30/Jan/2025 16:28:31] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:31,193 127.0.0.1 - - [30/Jan/2025 16:28:31] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:31,197 127.0.0.1 - - [30/Jan/2025 16:28:31] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:31,656 127.0.0.1 - - [30/Jan/2025 16:28:31] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:31,940 127.0.0.1 - - [30/Jan/2025 16:28:31] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:37,717 127.0.0.1 - - [30/Jan/2025 16:28:37] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-30 16:28:44,208 127.0.0.1 - - [30/Jan/2025 16:28:44] "GET /signup HTTP/1.1" 200 -
+2025-01-30 16:28:44,227 127.0.0.1 - - [30/Jan/2025 16:28:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:44,228 127.0.0.1 - - [30/Jan/2025 16:28:44] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:44,228 127.0.0.1 - - [30/Jan/2025 16:28:44] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:44,242 127.0.0.1 - - [30/Jan/2025 16:28:44] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:44,246 127.0.0.1 - - [30/Jan/2025 16:28:44] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:44,335 127.0.0.1 - - [30/Jan/2025 16:28:44] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:49,194 The CSRF token is missing.
+2025-01-30 16:28:49,194 127.0.0.1 - - [30/Jan/2025 16:28:49] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-01-30 16:28:53,112 127.0.0.1 - - [30/Jan/2025 16:28:53] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:54,512 127.0.0.1 - - [30/Jan/2025 16:28:54] "GET /signup HTTP/1.1" 200 -
+2025-01-30 16:28:54,532 127.0.0.1 - - [30/Jan/2025 16:28:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:54,533 127.0.0.1 - - [30/Jan/2025 16:28:54] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:54,534 127.0.0.1 - - [30/Jan/2025 16:28:54] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:54,539 127.0.0.1 - - [30/Jan/2025 16:28:54] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:54,542 127.0.0.1 - - [30/Jan/2025 16:28:54] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:54,629 127.0.0.1 - - [30/Jan/2025 16:28:54] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:55,659 127.0.0.1 - - [30/Jan/2025 16:28:55] "GET /signup HTTP/1.1" 200 -
+2025-01-30 16:28:55,680 127.0.0.1 - - [30/Jan/2025 16:28:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:55,681 127.0.0.1 - - [30/Jan/2025 16:28:55] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:55,682 127.0.0.1 - - [30/Jan/2025 16:28:55] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:55,688 127.0.0.1 - - [30/Jan/2025 16:28:55] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:55,694 127.0.0.1 - - [30/Jan/2025 16:28:55] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:55,785 127.0.0.1 - - [30/Jan/2025 16:28:55] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:56,749 127.0.0.1 - - [30/Jan/2025 16:28:56] "GET /signup HTTP/1.1" 200 -
+2025-01-30 16:28:56,771 127.0.0.1 - - [30/Jan/2025 16:28:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:56,771 127.0.0.1 - - [30/Jan/2025 16:28:56] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:56,772 127.0.0.1 - - [30/Jan/2025 16:28:56] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:56,780 127.0.0.1 - - [30/Jan/2025 16:28:56] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:56,783 127.0.0.1 - - [30/Jan/2025 16:28:56] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:56,879 127.0.0.1 - - [30/Jan/2025 16:28:56] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,401 127.0.0.1 - - [30/Jan/2025 16:28:57] "GET /signup HTTP/1.1" 200 -
+2025-01-30 16:28:57,423 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,423 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,423 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,430 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,433 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,531 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,888 127.0.0.1 - - [30/Jan/2025 16:28:57] "GET /signup HTTP/1.1" 200 -
+2025-01-30 16:28:57,915 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,915 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,915 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,927 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:57,931 127.0.0.1 - - [30/Jan/2025 16:28:57] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:58,018 127.0.0.1 - - [30/Jan/2025 16:28:58] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-30 16:28:58,341 127.0.0.1 - - [30/Jan/2025 16:28:58] "GET /signup HTTP/1.1" 200 -
+2025-01-30 16:28:58,364 127.0.0.1 - - [30/Jan/2025 16:28:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:58,365 127.0.0.1 - - [30/Jan/2025 16:28:58] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-30 16:28:58,366 127.0.0.1 - - [30/Jan/2025 16:28:58] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:58,376 127.0.0.1 - - [30/Jan/2025 16:28:58] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:58,381 127.0.0.1 - - [30/Jan/2025 16:28:58] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-30 16:28:58,469 127.0.0.1 - - [30/Jan/2025 16:28:58] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 13:55:18,693 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 13:55:18,693 [33mPress CTRL+C to quit[0m
+2025-01-31 13:55:18,700  * Restarting with stat
+2025-01-31 13:55:19,118  * Debugger is active!
+2025-01-31 13:55:19,158  * Debugger PIN: 508-715-579
+2025-01-31 13:55:20,224 127.0.0.1 - - [31/Jan/2025 13:55:20] "GET / HTTP/1.1" 200 -
+2025-01-31 13:55:20,431 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 13:55:20,438 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 13:55:20,475 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:20,601 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:20,620 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:20,726 127.0.0.1 - - [31/Jan/2025 13:55:20] "GET / HTTP/1.1" 200 -
+2025-01-31 13:55:20,824 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 13:55:20,825 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 13:55:20,825 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:20,903 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:20,907 127.0.0.1 - - [31/Jan/2025 13:55:20] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:21,471 127.0.0.1 - - [31/Jan/2025 13:55:21] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 13:55:21,656 127.0.0.1 - - [31/Jan/2025 13:55:21] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 13:55:35,215 127.0.0.1 - - [31/Jan/2025 13:55:35] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-31 13:55:35,322 127.0.0.1 - - [31/Jan/2025 13:55:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 13:55:37,903 127.0.0.1 - - [31/Jan/2025 13:55:37] "GET /signup HTTP/1.1" 200 -
+2025-01-31 13:55:37,922 127.0.0.1 - - [31/Jan/2025 13:55:37] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 13:55:37,922 127.0.0.1 - - [31/Jan/2025 13:55:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 13:55:37,923 127.0.0.1 - - [31/Jan/2025 13:55:37] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:37,934 127.0.0.1 - - [31/Jan/2025 13:55:37] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:37,937 127.0.0.1 - - [31/Jan/2025 13:55:37] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:38,025 127.0.0.1 - - [31/Jan/2025 13:55:38] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 13:55:38,750 127.0.0.1 - - [31/Jan/2025 13:55:38] "GET /signup HTTP/1.1" 200 -
+2025-01-31 13:55:38,770 127.0.0.1 - - [31/Jan/2025 13:55:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 13:55:38,770 127.0.0.1 - - [31/Jan/2025 13:55:38] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 13:55:38,770 127.0.0.1 - - [31/Jan/2025 13:55:38] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:38,776 127.0.0.1 - - [31/Jan/2025 13:55:38] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:38,779 127.0.0.1 - - [31/Jan/2025 13:55:38] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 13:55:38,869 127.0.0.1 - - [31/Jan/2025 13:55:38] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 13:55:44,901 The CSRF token is missing.
+2025-01-31 13:55:44,901 127.0.0.1 - - [31/Jan/2025 13:55:44] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-01-31 13:55:46,403 127.0.0.1 - - [31/Jan/2025 13:55:46] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 13:55:52,942 127.0.0.1 - - [31/Jan/2025 13:55:52] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-31 13:59:25,175  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 13:59:25,215  * Restarting with stat
+2025-01-31 13:59:25,656  * Debugger is active!
+2025-01-31 13:59:25,694  * Debugger PIN: 508-715-579
+2025-01-31 13:59:27,216 127.0.0.1 - - [31/Jan/2025 13:59:27] "GET / HTTP/1.1" 200 -
+2025-01-31 13:59:27,402 127.0.0.1 - - [31/Jan/2025 13:59:27] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 13:59:27,420 127.0.0.1 - - [31/Jan/2025 13:59:27] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 13:59:27,428 127.0.0.1 - - [31/Jan/2025 13:59:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 13:59:27,468 127.0.0.1 - - [31/Jan/2025 13:59:27] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 13:59:27,474 127.0.0.1 - - [31/Jan/2025 13:59:27] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 13:59:28,225 127.0.0.1 - - [31/Jan/2025 13:59:28] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:02:28,281 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 14:02:28,281 [33mPress CTRL+C to quit[0m
+2025-01-31 14:02:28,283  * Restarting with stat
+2025-01-31 14:02:28,695  * Debugger is active!
+2025-01-31 14:02:28,733  * Debugger PIN: 508-715-579
+2025-01-31 14:02:29,816 127.0.0.1 - - [31/Jan/2025 14:02:29] "GET / HTTP/1.1" 200 -
+2025-01-31 14:02:30,032 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:02:30,046 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:02:30,049 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:02:30,182 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:02:30,187 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:02:30,287 127.0.0.1 - - [31/Jan/2025 14:02:30] "GET / HTTP/1.1" 200 -
+2025-01-31 14:02:30,360 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:02:30,361 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:02:30,361 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:02:30,429 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:02:30,474 127.0.0.1 - - [31/Jan/2025 14:02:30] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:02:31,095 127.0.0.1 - - [31/Jan/2025 14:02:31] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:02:31,259 127.0.0.1 - - [31/Jan/2025 14:02:31] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:02:40,234 The CSRF token is missing.
+2025-01-31 14:02:40,235 127.0.0.1 - - [31/Jan/2025 14:02:40] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-31 14:06:45,354 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 14:06:45,354 [33mPress CTRL+C to quit[0m
+2025-01-31 14:06:45,356  * Restarting with stat
+2025-01-31 14:06:45,766  * Debugger is active!
+2025-01-31 14:06:45,804  * Debugger PIN: 508-715-579
+2025-01-31 14:06:46,883 127.0.0.1 - - [31/Jan/2025 14:06:46] "GET / HTTP/1.1" 200 -
+2025-01-31 14:06:47,088 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:06:47,094 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:06:47,099 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:06:47,237 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:06:47,245 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:06:47,376 127.0.0.1 - - [31/Jan/2025 14:06:47] "GET / HTTP/1.1" 200 -
+2025-01-31 14:06:47,458 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:06:47,459 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:06:47,460 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:06:47,569 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:06:47,576 127.0.0.1 - - [31/Jan/2025 14:06:47] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:06:48,151 127.0.0.1 - - [31/Jan/2025 14:06:48] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:06:48,321 127.0.0.1 - - [31/Jan/2025 14:06:48] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:07:25,407 The CSRF token is missing.
+2025-01-31 14:07:25,408 127.0.0.1 - - [31/Jan/2025 14:07:25] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-31 14:08:29,801  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 14:08:29,831  * Restarting with stat
+2025-01-31 14:08:30,268  * Debugger is active!
+2025-01-31 14:08:30,306  * Debugger PIN: 508-715-579
+2025-01-31 14:08:31,096 127.0.0.1 - - [31/Jan/2025 14:08:31] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-31 14:08:31,873 127.0.0.1 - - [31/Jan/2025 14:08:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-31 14:08:31,969 127.0.0.1 - - [31/Jan/2025 14:08:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:08:31,979 127.0.0.1 - - [31/Jan/2025 14:08:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-31 14:08:32,053 127.0.0.1 - - [31/Jan/2025 14:08:32] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=E1POPUpjGDxMqTlTrJDm HTTP/1.1" 200 -
+2025-01-31 14:08:32,778 127.0.0.1 - - [31/Jan/2025 14:08:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-31 14:09:23,888  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 14:09:23,920  * Restarting with stat
+2025-01-31 14:09:24,355  * Debugger is active!
+2025-01-31 14:09:24,392  * Debugger PIN: 508-715-579
+2025-01-31 14:09:25,921 127.0.0.1 - - [31/Jan/2025 14:09:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-31 14:09:26,026 127.0.0.1 - - [31/Jan/2025 14:09:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:09:26,029 127.0.0.1 - - [31/Jan/2025 14:09:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-31 14:09:26,090 127.0.0.1 - - [31/Jan/2025 14:09:26] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=Z2UsW82uQrgOcW5ZZjX5 HTTP/1.1" 200 -
+2025-01-31 14:10:04,585  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 14:10:04,617  * Restarting with stat
+2025-01-31 14:10:05,051  * Debugger is active!
+2025-01-31 14:10:05,089  * Debugger PIN: 508-715-579
+2025-01-31 14:10:06,622 127.0.0.1 - - [31/Jan/2025 14:10:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-31 14:10:06,729 127.0.0.1 - - [31/Jan/2025 14:10:06] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-31 14:10:06,737 127.0.0.1 - - [31/Jan/2025 14:10:06] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:10:06,787 127.0.0.1 - - [31/Jan/2025 14:10:06] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=RRC1x0btrEYhYvxIcioK HTTP/1.1" 200 -
+2025-01-31 14:11:16,147  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\userManagement.py', reloading
+2025-01-31 14:11:16,185  * Restarting with stat
+2025-01-31 14:11:16,622  * Debugger is active!
+2025-01-31 14:11:16,660  * Debugger PIN: 508-715-579
+2025-01-31 14:11:18,169 127.0.0.1 - - [31/Jan/2025 14:11:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-31 14:11:18,269 127.0.0.1 - - [31/Jan/2025 14:11:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-31 14:11:18,271 127.0.0.1 - - [31/Jan/2025 14:11:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:11:18,308 127.0.0.1 - - [31/Jan/2025 14:11:18] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=x03tdGrJiu0qFUxLHxVd HTTP/1.1" 200 -
+2025-01-31 14:16:02,712  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 14:16:02,742  * Restarting with stat
+2025-01-31 14:16:03,202  * Debugger is active!
+2025-01-31 14:16:03,240  * Debugger PIN: 508-715-579
+2025-01-31 14:16:04,751 127.0.0.1 - - [31/Jan/2025 14:16:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-31 14:16:04,856 127.0.0.1 - - [31/Jan/2025 14:16:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:16:04,859 127.0.0.1 - - [31/Jan/2025 14:16:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-31 14:16:04,909 127.0.0.1 - - [31/Jan/2025 14:16:04] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=NAsCFZS4lcoxlV6GbX1z HTTP/1.1" 200 -
+2025-01-31 14:21:07,101 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 14:21:07,101 [33mPress CTRL+C to quit[0m
+2025-01-31 14:21:07,103  * Restarting with stat
+2025-01-31 14:21:07,506  * Debugger is active!
+2025-01-31 14:21:07,544  * Debugger PIN: 508-715-579
+2025-01-31 14:21:08,642 127.0.0.1 - - [31/Jan/2025 14:21:08] "GET / HTTP/1.1" 200 -
+2025-01-31 14:21:08,838 127.0.0.1 - - [31/Jan/2025 14:21:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:21:08,847 127.0.0.1 - - [31/Jan/2025 14:21:08] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:21:08,852 127.0.0.1 - - [31/Jan/2025 14:21:08] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:21:08,892 127.0.0.1 - - [31/Jan/2025 14:21:08] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:21:08,897 127.0.0.1 - - [31/Jan/2025 14:21:08] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:21:09,111 127.0.0.1 - - [31/Jan/2025 14:21:09] "GET / HTTP/1.1" 200 -
+2025-01-31 14:21:09,188 127.0.0.1 - - [31/Jan/2025 14:21:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:21:09,189 127.0.0.1 - - [31/Jan/2025 14:21:09] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:21:09,190 127.0.0.1 - - [31/Jan/2025 14:21:09] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:21:09,232 127.0.0.1 - - [31/Jan/2025 14:21:09] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:21:09,238 127.0.0.1 - - [31/Jan/2025 14:21:09] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:21:09,704 127.0.0.1 - - [31/Jan/2025 14:21:09] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:21:09,987 127.0.0.1 - - [31/Jan/2025 14:21:09] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:21:15,236 127.0.0.1 - - [31/Jan/2025 14:21:15] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-31 14:27:48,768  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\userManagement.py', reloading
+2025-01-31 14:27:48,795  * Restarting with stat
+2025-01-31 14:27:49,224  * Debugger is active!
+2025-01-31 14:27:49,262  * Debugger PIN: 508-715-579
+2025-01-31 14:27:50,763 127.0.0.1 - - [31/Jan/2025 14:27:50] "GET / HTTP/1.1" 200 -
+2025-01-31 14:27:50,970 127.0.0.1 - - [31/Jan/2025 14:27:50] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:27:50,976 127.0.0.1 - - [31/Jan/2025 14:27:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:27:50,980 127.0.0.1 - - [31/Jan/2025 14:27:50] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:27:51,015 127.0.0.1 - - [31/Jan/2025 14:27:51] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:27:51,019 127.0.0.1 - - [31/Jan/2025 14:27:51] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:27:51,904 127.0.0.1 - - [31/Jan/2025 14:27:51] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:28:01,397 127.0.0.1 - - [31/Jan/2025 14:28:01] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-31 14:33:21,441 127.0.0.1 - - [31/Jan/2025 14:33:21] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-31 14:33:24,296 127.0.0.1 - - [31/Jan/2025 14:33:24] "GET /signup HTTP/1.1" 200 -
+2025-01-31 14:33:24,317 127.0.0.1 - - [31/Jan/2025 14:33:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:33:24,318 127.0.0.1 - - [31/Jan/2025 14:33:24] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:33:24,318 127.0.0.1 - - [31/Jan/2025 14:33:24] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:33:24,327 127.0.0.1 - - [31/Jan/2025 14:33:24] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:33:24,330 127.0.0.1 - - [31/Jan/2025 14:33:24] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:33:24,421 127.0.0.1 - - [31/Jan/2025 14:33:24] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:33:28,397 127.0.0.1 - - [31/Jan/2025 14:33:28] "[33mPOST /signup.html HTTP/1.1[0m" 404 -
+2025-01-31 14:34:39,314 127.0.0.1 - - [31/Jan/2025 14:34:39] "[33mGET /login HTTP/1.1[0m" 404 -
+2025-01-31 14:34:41,612 127.0.0.1 - - [31/Jan/2025 14:34:41] "[33mPOST /signup.html HTTP/1.1[0m" 404 -
+2025-01-31 14:34:47,511 127.0.0.1 - - [31/Jan/2025 14:34:47] "[33mPOST /signup.html HTTP/1.1[0m" 404 -
+2025-01-31 14:35:20,811  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 14:35:20,845  * Restarting with stat
+2025-01-31 14:35:21,291  * Debugger is active!
+2025-01-31 14:35:21,330  * Debugger PIN: 508-715-579
+2025-01-31 14:35:22,839 127.0.0.1 - - [31/Jan/2025 14:35:22] "GET / HTTP/1.1" 200 -
+2025-01-31 14:35:23,055 127.0.0.1 - - [31/Jan/2025 14:35:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:35:23,060 127.0.0.1 - - [31/Jan/2025 14:35:23] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:35:23,063 127.0.0.1 - - [31/Jan/2025 14:35:23] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:35:23,213 127.0.0.1 - - [31/Jan/2025 14:35:23] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:35:23,217 127.0.0.1 - - [31/Jan/2025 14:35:23] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:35:23,963 127.0.0.1 - - [31/Jan/2025 14:35:23] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 14:35:28,789 127.0.0.1 - - [31/Jan/2025 14:35:28] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-31 14:42:36,485  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 14:42:36,518  * Restarting with stat
+2025-01-31 14:42:36,983  * Debugger is active!
+2025-01-31 14:42:37,026  * Debugger PIN: 508-715-579
+2025-01-31 14:42:38,540 127.0.0.1 - - [31/Jan/2025 14:42:38] "GET / HTTP/1.1" 200 -
+2025-01-31 14:42:38,776 127.0.0.1 - - [31/Jan/2025 14:42:38] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 14:42:38,782 127.0.0.1 - - [31/Jan/2025 14:42:38] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 14:42:38,786 127.0.0.1 - - [31/Jan/2025 14:42:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 14:42:38,916 127.0.0.1 - - [31/Jan/2025 14:42:38] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 14:42:38,920 127.0.0.1 - - [31/Jan/2025 14:42:38] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 14:42:39,688 127.0.0.1 - - [31/Jan/2025 14:42:39] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:34:41,668 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 15:34:41,668 [33mPress CTRL+C to quit[0m
+2025-01-31 15:34:41,670  * Restarting with stat
+2025-01-31 15:34:42,093  * Debugger is active!
+2025-01-31 15:34:42,131  * Debugger PIN: 508-715-579
+2025-01-31 15:34:43,214 127.0.0.1 - - [31/Jan/2025 15:34:43] "GET / HTTP/1.1" 200 -
+2025-01-31 15:34:43,422 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:34:43,427 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:34:43,432 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:34:43,566 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:34:43,570 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:34:43,670 127.0.0.1 - - [31/Jan/2025 15:34:43] "GET / HTTP/1.1" 200 -
+2025-01-31 15:34:43,745 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:34:43,745 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:34:43,746 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:34:43,820 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:34:43,873 127.0.0.1 - - [31/Jan/2025 15:34:43] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:34:44,464 127.0.0.1 - - [31/Jan/2025 15:34:44] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:34:44,623 127.0.0.1 - - [31/Jan/2025 15:34:44] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:34:51,897 127.0.0.1 - - [31/Jan/2025 15:34:51] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-31 15:38:48,101  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\userManagement.py', reloading
+2025-01-31 15:38:48,128  * Restarting with stat
+2025-01-31 15:38:48,556  * Debugger is active!
+2025-01-31 15:38:48,594  * Debugger PIN: 508-715-579
+2025-01-31 15:38:50,090 127.0.0.1 - - [31/Jan/2025 15:38:50] "GET / HTTP/1.1" 200 -
+2025-01-31 15:38:50,288 127.0.0.1 - - [31/Jan/2025 15:38:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:38:50,296 127.0.0.1 - - [31/Jan/2025 15:38:50] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:38:50,301 127.0.0.1 - - [31/Jan/2025 15:38:50] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:38:50,359 127.0.0.1 - - [31/Jan/2025 15:38:50] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:38:50,365 127.0.0.1 - - [31/Jan/2025 15:38:50] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:38:51,154 127.0.0.1 - - [31/Jan/2025 15:38:51] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:40:06,881 127.0.0.1 - - [31/Jan/2025 15:40:06] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-01-31 15:43:17,170  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 15:43:17,204  * Restarting with stat
+2025-01-31 15:43:17,673  * Debugger is active!
+2025-01-31 15:43:17,712  * Debugger PIN: 508-715-579
+2025-01-31 15:48:44,012 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 15:48:44,012 [33mPress CTRL+C to quit[0m
+2025-01-31 15:48:44,014  * Restarting with stat
+2025-01-31 15:48:44,438  * Debugger is active!
+2025-01-31 15:48:44,475  * Debugger PIN: 508-715-579
+2025-01-31 15:48:45,555 127.0.0.1 - - [31/Jan/2025 15:48:45] "GET / HTTP/1.1" 200 -
+2025-01-31 15:48:45,790 127.0.0.1 - - [31/Jan/2025 15:48:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:45,800 127.0.0.1 - - [31/Jan/2025 15:48:45] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:45,807 127.0.0.1 - - [31/Jan/2025 15:48:45] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:45,980 127.0.0.1 - - [31/Jan/2025 15:48:45] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:45,990 127.0.0.1 - - [31/Jan/2025 15:48:45] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:46,091 127.0.0.1 - - [31/Jan/2025 15:48:46] "GET / HTTP/1.1" 200 -
+2025-01-31 15:48:46,180 127.0.0.1 - - [31/Jan/2025 15:48:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:46,181 127.0.0.1 - - [31/Jan/2025 15:48:46] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:46,181 127.0.0.1 - - [31/Jan/2025 15:48:46] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:46,246 127.0.0.1 - - [31/Jan/2025 15:48:46] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:46,253 127.0.0.1 - - [31/Jan/2025 15:48:46] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:46,905 127.0.0.1 - - [31/Jan/2025 15:48:46] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:48:46,906 127.0.0.1 - - [31/Jan/2025 15:48:46] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2025-01-31 15:48:47,009 127.0.0.1 - - [31/Jan/2025 15:48:47] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:48:47,010 127.0.0.1 - - [31/Jan/2025 15:48:47] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2025-01-31 15:48:52,221 127.0.0.1 - - [31/Jan/2025 15:48:52] "GET / HTTP/1.1" 200 -
+2025-01-31 15:48:52,240 127.0.0.1 - - [31/Jan/2025 15:48:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:52,241 127.0.0.1 - - [31/Jan/2025 15:48:52] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:52,241 127.0.0.1 - - [31/Jan/2025 15:48:52] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:52,251 127.0.0.1 - - [31/Jan/2025 15:48:52] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:52,255 127.0.0.1 - - [31/Jan/2025 15:48:52] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:52,342 127.0.0.1 - - [31/Jan/2025 15:48:52] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:48:55,141 127.0.0.1 - - [31/Jan/2025 15:48:55] "GET / HTTP/1.1" 200 -
+2025-01-31 15:48:55,161 127.0.0.1 - - [31/Jan/2025 15:48:55] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:55,161 127.0.0.1 - - [31/Jan/2025 15:48:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:55,162 127.0.0.1 - - [31/Jan/2025 15:48:55] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:55,170 127.0.0.1 - - [31/Jan/2025 15:48:55] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:55,173 127.0.0.1 - - [31/Jan/2025 15:48:55] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:55,263 127.0.0.1 - - [31/Jan/2025 15:48:55] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,256 127.0.0.1 - - [31/Jan/2025 15:48:56] "GET / HTTP/1.1" 200 -
+2025-01-31 15:48:56,278 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,278 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,279 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,288 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,291 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,377 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,877 127.0.0.1 - - [31/Jan/2025 15:48:56] "GET / HTTP/1.1" 200 -
+2025-01-31 15:48:56,896 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,897 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,897 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,906 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,909 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:48:56,994 127.0.0.1 - - [31/Jan/2025 15:48:56] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:50:45,708 127.0.0.1 - - [31/Jan/2025 15:50:45] "GET / HTTP/1.1" 200 -
+2025-01-31 15:50:45,737 127.0.0.1 - - [31/Jan/2025 15:50:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 15:50:45,743 127.0.0.1 - - [31/Jan/2025 15:50:45] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-31 15:50:45,743 127.0.0.1 - - [31/Jan/2025 15:50:45] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-31 15:50:45,759 127.0.0.1 - - [31/Jan/2025 15:50:45] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 15:50:45,765 127.0.0.1 - - [31/Jan/2025 15:50:45] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 15:50:46,115 127.0.0.1 - - [31/Jan/2025 15:50:46] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:50:46,115 127.0.0.1 - - [31/Jan/2025 15:50:46] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2025-01-31 15:50:55,738 The CSRF token is missing.
+2025-01-31 15:50:55,738 127.0.0.1 - - [31/Jan/2025 15:50:55] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2025-01-31 15:50:58,475 127.0.0.1 - - [31/Jan/2025 15:50:58] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 15:51:55,717 The CSRF token is missing.
+2025-01-31 15:51:55,717 127.0.0.1 - - [31/Jan/2025 15:51:55] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2025-01-31 15:56:16,312  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 15:56:16,339  * Restarting with stat
+2025-01-31 17:36:30,778  * Debugger is active!
+2025-01-31 17:36:30,816  * Debugger PIN: 508-715-579
+2025-01-31 17:36:32,312 127.0.0.1 - - [31/Jan/2025 17:36:32] "GET / HTTP/1.1" 200 -
+2025-01-31 17:36:32,448 127.0.0.1 - - [31/Jan/2025 17:36:32] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-01-31 17:36:32,523 127.0.0.1 - - [31/Jan/2025 17:36:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 17:36:32,527 127.0.0.1 - - [31/Jan/2025 17:36:32] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 17:36:32,553 127.0.0.1 - - [31/Jan/2025 17:36:32] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 17:36:33,290 127.0.0.1 - - [31/Jan/2025 17:36:33] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 17:36:36,531 The CSRF token is missing.
+2025-01-31 17:36:36,531 127.0.0.1 - - [31/Jan/2025 17:36:36] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2025-01-31 17:37:12,037  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-01-31 17:37:12,542  * Debugger is active!
+2025-01-31 17:37:12,580  * Debugger PIN: 508-715-579
+2025-01-31 17:37:14,083 127.0.0.1 - - [31/Jan/2025 17:37:14] "GET / HTTP/1.1" 200 -
+2025-01-31 17:37:14,167 127.0.0.1 - - [31/Jan/2025 17:37:14] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-01-31 17:37:14,243 127.0.0.1 - - [31/Jan/2025 17:37:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 17:37:14,247 127.0.0.1 - - [31/Jan/2025 17:37:14] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 17:37:14,302 127.0.0.1 - - [31/Jan/2025 17:37:14] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 17:37:15,159 127.0.0.1 - - [31/Jan/2025 17:37:15] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 17:37:18,589 127.0.0.1 - - [31/Jan/2025 17:37:18] "GET /signup HTTP/1.1" 200 -
+2025-01-31 17:37:18,613 127.0.0.1 - - [31/Jan/2025 17:37:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 17:37:18,614 127.0.0.1 - - [31/Jan/2025 17:37:18] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 17:37:18,620 127.0.0.1 - - [31/Jan/2025 17:37:18] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 17:37:18,713 127.0.0.1 - - [31/Jan/2025 17:37:18] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 17:37:23,163 The CSRF token is missing.
+2025-01-31 17:37:23,163 127.0.0.1 - - [31/Jan/2025 17:37:23] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-01-31 17:38:14,389  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\userManagement.py', reloading
+2025-01-31 17:38:14,869  * Debugger is active!
+2025-01-31 17:38:14,908  * Debugger PIN: 508-715-579
+2025-01-31 17:38:16,412 127.0.0.1 - - [31/Jan/2025 17:38:16] "GET / HTTP/1.1" 200 -
+2025-01-31 17:38:16,543 127.0.0.1 - - [31/Jan/2025 17:38:16] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-01-31 17:38:16,608 127.0.0.1 - - [31/Jan/2025 17:38:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 17:38:16,613 127.0.0.1 - - [31/Jan/2025 17:38:16] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 17:38:16,643 127.0.0.1 - - [31/Jan/2025 17:38:16] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 17:38:17,480 127.0.0.1 - - [31/Jan/2025 17:38:17] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 18:27:29,757  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\userManagement.py', reloading
+2025-01-31 18:27:30,230  * Debugger is active!
+2025-01-31 18:27:30,267  * Debugger PIN: 508-715-579
+2025-01-31 18:27:31,780 127.0.0.1 - - [31/Jan/2025 18:27:31] "GET / HTTP/1.1" 200 -
+2025-01-31 18:27:31,858 127.0.0.1 - - [31/Jan/2025 18:27:31] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-01-31 18:27:31,945 127.0.0.1 - - [31/Jan/2025 18:27:31] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-01-31 18:27:31,948 127.0.0.1 - - [31/Jan/2025 18:27:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-31 18:27:32,001 127.0.0.1 - - [31/Jan/2025 18:27:32] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-01-31 18:27:32,828 127.0.0.1 - - [31/Jan/2025 18:27:32] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-01-31 18:27:41,859 The CSRF token is missing.
+2025-01-31 18:27:41,859 127.0.0.1 - - [31/Jan/2025 18:27:41] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2025-02-01 15:41:18,945 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-01 15:41:18,945 [33mPress CTRL+C to quit[0m
+2025-02-01 15:41:18,961  * Restarting with stat
+2025-02-01 15:41:19,395  * Debugger is active!
+2025-02-01 15:41:19,427  * Debugger PIN: 508-715-579
+2025-02-01 15:41:20,476 127.0.0.1 - - [01/Feb/2025 15:41:20] "GET / HTTP/1.1" 200 -
+2025-02-01 15:41:20,585 127.0.0.1 - - [01/Feb/2025 15:41:20] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-02-01 15:41:20,705 127.0.0.1 - - [01/Feb/2025 15:41:20] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-02-01 15:41:20,710 127.0.0.1 - - [01/Feb/2025 15:41:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-01 15:41:20,740 127.0.0.1 - - [01/Feb/2025 15:41:20] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-02-01 15:41:21,066 127.0.0.1 - - [01/Feb/2025 15:41:21] "GET / HTTP/1.1" 200 -
+2025-02-01 15:41:21,170 127.0.0.1 - - [01/Feb/2025 15:41:21] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-02-01 15:41:21,173 127.0.0.1 - - [01/Feb/2025 15:41:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-01 15:41:21,173 127.0.0.1 - - [01/Feb/2025 15:41:21] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-02-01 15:41:21,191 127.0.0.1 - - [01/Feb/2025 15:41:21] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-02-01 15:41:21,576 127.0.0.1 - - [01/Feb/2025 15:41:21] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-02-01 15:41:22,014 127.0.0.1 - - [01/Feb/2025 15:41:22] "[36mGET /static/manifest.json HTTP/1.1[0m" 304 -
+2025-02-01 15:41:28,239 The CSRF token is missing.
+2025-02-01 15:41:28,239 127.0.0.1 - - [01/Feb/2025 15:41:28] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2025-02-01 15:41:28,364 127.0.0.1 - - [01/Feb/2025 15:41:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-01 16:29:06,306 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-01 16:29:06,307 [33mPress CTRL+C to quit[0m
+2025-02-01 16:29:06,308  * Restarting with stat
+2025-02-01 16:29:06,716  * Debugger is active!
+2025-02-01 16:29:06,754  * Debugger PIN: 508-715-579
+2025-02-01 16:29:17,553 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-01 16:29:17,553 [33mPress CTRL+C to quit[0m
+2025-02-01 16:29:17,555  * Restarting with stat
+2025-02-01 16:29:17,961  * Debugger is active!
+2025-02-01 16:29:17,999  * Debugger PIN: 508-715-579
+2025-02-01 16:29:50,940 127.0.0.1 - - [01/Feb/2025 16:29:50] "GET / HTTP/1.1" 200 -
+2025-02-01 16:29:51,010 127.0.0.1 - - [01/Feb/2025 16:29:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-01 16:29:56,918 The CSRF token is missing.
+2025-02-01 16:29:56,918 127.0.0.1 - - [01/Feb/2025 16:29:56] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-02-01 16:30:00,658 127.0.0.1 - - [01/Feb/2025 16:30:00] "GET /signup HTTP/1.1" 200 -
+2025-02-01 16:30:00,674 127.0.0.1 - - [01/Feb/2025 16:30:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-01 16:30:04,508 The CSRF token is missing.
+2025-02-01 16:30:04,508 127.0.0.1 - - [01/Feb/2025 16:30:04] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-02-01 16:32:59,321  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-02-01 16:32:59,347  * Restarting with stat
+2025-02-01 16:32:59,428  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-02-01 16:32:59,457  * Restarting with stat
+2025-02-01 16:36:52,870 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-01 16:36:52,870 [33mPress CTRL+C to quit[0m
+2025-02-01 16:36:52,871  * Restarting with stat
+2025-02-01 16:36:53,287  * Debugger is active!
+2025-02-01 16:36:53,325  * Debugger PIN: 508-715-579
+2025-02-01 16:40:12,012  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-02-01 16:40:12,042  * Restarting with stat
+2025-02-01 16:40:12,493  * Debugger is active!
+2025-02-01 16:40:12,532  * Debugger PIN: 508-715-579
+2025-02-01 16:40:37,305  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-02-01 16:40:37,364  * Restarting with stat
+2025-02-01 16:40:37,807  * Debugger is active!
+2025-02-01 16:40:37,846  * Debugger PIN: 508-715-579
+2025-02-01 16:40:39,824 127.0.0.1 - - [01/Feb/2025 16:40:39] "GET / HTTP/1.1" 200 -
+2025-02-01 16:40:39,840 127.0.0.1 - - [01/Feb/2025 16:40:39] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 16:40:55,408  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-02-01 16:40:55,435  * Restarting with stat
+2025-02-01 16:40:55,868  * Debugger is active!
+2025-02-01 16:46:49,670 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-01 16:46:49,670 [33mPress CTRL+C to quit[0m
+2025-02-01 16:46:49,672  * Restarting with stat
+2025-02-01 16:46:50,085  * Debugger is active!
+2025-02-01 16:46:50,123  * Debugger PIN: 508-715-579
+2025-02-01 16:46:51,688 127.0.0.1 - - [01/Feb/2025 16:46:51] "GET / HTTP/1.1" 200 -
+2025-02-01 16:46:51,701 127.0.0.1 - - [01/Feb/2025 16:46:51] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 16:46:52,145 127.0.0.1 - - [01/Feb/2025 16:46:52] "GET / HTTP/1.1" 200 -
+2025-02-01 16:46:52,163 127.0.0.1 - - [01/Feb/2025 16:46:52] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 16:46:58,865 127.0.0.1 - - [01/Feb/2025 16:46:58] "GET /login HTTP/1.1" 200 -
+2025-02-01 16:46:58,880 127.0.0.1 - - [01/Feb/2025 16:46:58] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 16:47:03,285 127.0.0.1 - - [01/Feb/2025 16:47:03] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-02-01 16:47:03,386 127.0.0.1 - - [01/Feb/2025 16:47:03] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-01 16:47:03,390 127.0.0.1 - - [01/Feb/2025 16:47:03] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-01 16:47:03,676 127.0.0.1 - - [01/Feb/2025 16:47:03] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=MEL4e0rFLp6LW8x3aMkL HTTP/1.1" 200 -
+2025-02-01 16:47:03,687 127.0.0.1 - - [01/Feb/2025 16:47:03] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-01 16:47:36,496  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\main.py', reloading
+2025-02-01 16:47:36,530  * Restarting with stat
+2025-02-01 16:47:36,970  * Debugger is active!
+2025-02-01 16:47:37,009  * Debugger PIN: 508-715-579
+2025-02-01 16:47:38,968 127.0.0.1 - - [01/Feb/2025 16:47:38] "GET / HTTP/1.1" 200 -
+2025-02-01 16:47:38,986 127.0.0.1 - - [01/Feb/2025 16:47:38] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 16:48:05,885  * Detected change in 'C:\\Users\\Maxwiddy\\Documents\\GitHub\\Max-HSCASSESMENTTASK1-CLIENTAPI\\userManagement.py', reloading
+2025-02-01 16:48:05,915  * Restarting with stat
+2025-02-01 16:48:06,343  * Debugger is active!
+2025-02-01 16:48:06,381  * Debugger PIN: 508-715-579
+2025-02-01 16:48:08,342 127.0.0.1 - - [01/Feb/2025 16:48:08] "GET / HTTP/1.1" 200 -
+2025-02-01 16:48:08,353 127.0.0.1 - - [01/Feb/2025 16:48:08] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 16:48:10,582 127.0.0.1 - - [01/Feb/2025 16:48:10] "GET /signup HTTP/1.1" 200 -
+2025-02-01 16:48:10,595 127.0.0.1 - - [01/Feb/2025 16:48:10] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 16:48:14,810 127.0.0.1 - - [01/Feb/2025 16:48:14] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-02-01 16:48:14,815 127.0.0.1 - - [01/Feb/2025 16:48:14] "GET /login HTTP/1.1" 200 -
+2025-02-01 16:48:14,833 127.0.0.1 - - [01/Feb/2025 16:48:14] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 16:48:23,187 127.0.0.1 - - [01/Feb/2025 16:48:23] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-01 16:48:23,200 127.0.0.1 - - [01/Feb/2025 16:48:23] "GET /dashboard HTTP/1.1" 200 -
+2025-02-01 16:48:23,218 127.0.0.1 - - [01/Feb/2025 16:48:23] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:11:49,634 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-01 18:11:49,635 [33mPress CTRL+C to quit[0m
+2025-02-01 18:11:49,636  * Restarting with stat
+2025-02-01 18:11:50,047  * Debugger is active!
+2025-02-01 18:11:50,085  * Debugger PIN: 508-715-579
+2025-02-01 18:11:51,649 127.0.0.1 - - [01/Feb/2025 18:11:51] "GET / HTTP/1.1" 200 -
+2025-02-01 18:11:51,670 127.0.0.1 - - [01/Feb/2025 18:11:51] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:11:52,120 127.0.0.1 - - [01/Feb/2025 18:11:52] "GET / HTTP/1.1" 200 -
+2025-02-01 18:11:52,137 127.0.0.1 - - [01/Feb/2025 18:11:52] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:11:58,788 127.0.0.1 - - [01/Feb/2025 18:11:58] "GET /dashboard HTTP/1.1" 200 -
+2025-02-01 18:11:58,805 127.0.0.1 - - [01/Feb/2025 18:11:58] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:12:00,458 127.0.0.1 - - [01/Feb/2025 18:12:00] "GET / HTTP/1.1" 200 -
+2025-02-01 18:12:00,474 127.0.0.1 - - [01/Feb/2025 18:12:00] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:12:02,066 127.0.0.1 - - [01/Feb/2025 18:12:02] "GET /login HTTP/1.1" 200 -
+2025-02-01 18:12:02,079 127.0.0.1 - - [01/Feb/2025 18:12:02] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:12:06,057 127.0.0.1 - - [01/Feb/2025 18:12:06] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-02-01 18:12:06,147 127.0.0.1 - - [01/Feb/2025 18:12:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-01 18:12:06,150 127.0.0.1 - - [01/Feb/2025 18:12:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-01 18:12:06,179 127.0.0.1 - - [01/Feb/2025 18:12:06] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=cIZe84fgTp5wI4qT0iv5 HTTP/1.1" 200 -
+2025-02-01 18:12:06,461 127.0.0.1 - - [01/Feb/2025 18:12:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-01 18:12:13,028 127.0.0.1 - - [01/Feb/2025 18:12:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-01 18:12:13,033 127.0.0.1 - - [01/Feb/2025 18:12:13] "GET /dashboard HTTP/1.1" 200 -
+2025-02-01 18:12:13,052 127.0.0.1 - - [01/Feb/2025 18:12:13] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:12:51,839 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-01 18:12:51,840 [33mPress CTRL+C to quit[0m
+2025-02-01 18:12:51,841  * Restarting with stat
+2025-02-01 18:12:52,247  * Debugger is active!
+2025-02-01 18:12:52,285  * Debugger PIN: 508-715-579
+2025-02-01 18:12:53,840 127.0.0.1 - - [01/Feb/2025 18:12:53] "GET / HTTP/1.1" 200 -
+2025-02-01 18:12:53,864 127.0.0.1 - - [01/Feb/2025 18:12:53] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:12:54,302 127.0.0.1 - - [01/Feb/2025 18:12:54] "GET / HTTP/1.1" 200 -
+2025-02-01 18:12:54,324 127.0.0.1 - - [01/Feb/2025 18:12:54] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:12:56,767 127.0.0.1 - - [01/Feb/2025 18:12:56] "GET /dashboard HTTP/1.1" 200 -
+2025-02-01 18:12:56,779 127.0.0.1 - - [01/Feb/2025 18:12:56] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-02-01 18:12:58,024 127.0.0.1 - - [01/Feb/2025 18:12:58] "GET /privacy HTTP/1.1" 200 -
+2025-02-01 18:12:58,041 127.0.0.1 - - [01/Feb/2025 18:12:58] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
