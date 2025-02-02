@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <meta
       http-equiv="Content-Security-Policy"
@@ -23,12 +24,32 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}Dev Diaries{% endblock %}</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+>>>>>>> 70add9764a6100db9b4b6602f1acc04963d29da6
   </head>
   <body>
-    {% include "partials/menu.html" %} {% block content %}{% endblock %} {%
-    include "partials/footer.html" %}
-    <script src="static/js/bootstrap.bundle.min.js"></script>
-    <script src="static/js/serviceWorker.js"></script>
-    <script src="static/js/app.js"></script>
+    <nav>
+      <a href="{{ url_for('index') }}">Home</a>
+      {% if 'user' in session %}
+      <a href="{{ url_for('dashboard') }}">Dashboard</a>
+      <a href="{{ url_for('logout') }}">Logout</a>
+      {% else %}
+      <a href="{{ url_for('login') }}">Login</a>
+      <a href="{{ url_for('signup') }}">Sign Up</a>
+      {% endif %}
+    </nav>
+
+    <main>{% block content %}{% endblock %}</main>
+
+    <footer>
+      <p>&copy; 2025 My PWA. All rights reserved.</p>
+    </footer>
   </body>
 </html>

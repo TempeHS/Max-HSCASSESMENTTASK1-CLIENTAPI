@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 *   {
@@ -9,13 +10,47 @@
 =======
 @import "bootstrap.min.css";
 >>>>>>> Stashed changes
+=======
+>>>>>>> 70add9764a6100db9b4b6602f1acc04963d29da6
 body {
-
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 20px;
 }
-.container {
 
+h1 {
+  color: #333;
 }
 
-.row {
-    
+form {
+  display: inline-block;
+  text-align: left;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background: #5cb85c;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: #0275d8;
 }
