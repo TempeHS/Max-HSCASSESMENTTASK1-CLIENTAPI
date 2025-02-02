@@ -7,6 +7,7 @@ import requests
 from flask_wtf import CSRFProtect
 from flask_csp.csp import csp_header
 import logging
+import bcrypt
 import userManagement as dbHandler
 
 # Code snippet for logging a message
