@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-*   {
-
-}
-=======
-@import "bootstrap.min.css";
->>>>>>> Stashed changes
-=======
-@import "bootstrap.min.css";
->>>>>>> Stashed changes
-=======
->>>>>>> 70add9764a6100db9b4b6602f1acc04963d29da6
+@import "static/css/bootstrap.min.css";
 body {
   font-family: Arial, sans-serif;
   text-align: center;

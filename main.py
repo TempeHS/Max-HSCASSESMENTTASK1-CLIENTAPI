@@ -4,11 +4,15 @@ from flask import Flask, render_template, request, redirect, url_for, session, f
 from flask_wtf import CSRFProtect
 from flask_csp.csp import csp_header
 import logging
-<<<<<<< HEAD
 import bcrypt
-=======
->>>>>>> 70add9764a6100db9b4b6602f1acc04963d29da6
+import sqlite3 as sql
+from flask_wtf import FlaskForm
+from wtforms import StringField, DateTimeField, SubmitField
+from wtforms.validators import DataRequired
+from flask_wtf.csrf import CSRFProtect
 import userManagement as dbHandler
+import diaryManagement as logHandler
+database = ".databaseFiles/database.db"
 
 app = Flask(__name__)
 app.secret_key = "_53oi3uriq9pifpff;apl"
@@ -22,6 +26,7 @@ logging.basicConfig(filename="security_log.log", encoding="utf-8", level=logging
 @app.route("/index.asp")
 @app.route("/index.php")
 @app.route("/index.html")
+
 def root():
     return redirect("/", 302)
 
@@ -76,6 +81,42 @@ def dashboard():
     if "user" not in session:
         return redirect(url_for("login"))
     return render_template("dashboard.html", user=session["user"])
+
+class DiaryEntryForm(FlaskForm):
+    devtag = StringField('Devtag', validators=[DataRequired()])
+    project = StringField('Project', validators=[DataRequired()])
+    repo = StringField('Repo', validators=[DataRequired()])
+    starttime = DateTimeField('Start Time', validators=[DataRequired()])
+    endtime = DateTimeField('End Time', validators=[DataRequired()])
+    submit = SubmitField('Submit')
+
+def get_db_connection():
+    con = sql.connect(database)
+    con.row_factory = sql.Row
+    return con
+
+@app.route("/form", methods=["GET", "POST"])
+def insertEntry():
+    if "user" not in session:
+        return redirect(url_for("login"))
+    form = DiaryEntryForm()
+    if form.validate_on_submit():
+        devtag = form.devtag.data
+        project = form.project.data
+        repo = form.repo.data
+        starttime = form.starttime.data
+        endtime = form.endtime.data
+        logHandler.new_entry(devtag, project, repo, starttime, endtime)
+        flash("Entry added successfully", "success")
+        return redirect(url_for("showEntry"))
+    return render_template("form.html", form=form)
+
+@app.route("/entries", methods=["GET"])
+def showEntry():
+    if "user" not in session:
+        return redirect(url_for("login"))
+    entries = logHandler.entries()
+    return render_template("entries.html", entries=entries)
 
 @app.route("/privacy", methods=["GET"])
 def privacy():

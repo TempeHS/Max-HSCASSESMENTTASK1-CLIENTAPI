@@ -1,4 +1,6 @@
 Flask
 bcrypt
-flask_wtf
-flask-csp
+flask-WTF
+flask-CORS
+flask-Limiter
+Flask-CSP

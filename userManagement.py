@@ -1,23 +1,12 @@
 import sqlite3 as sql
 import bcrypt
 
-def create_table():
-    con = sql.connect(".databaseFiles/database.db")
-    cur = con.cursor()
-    cur.execute("""
-        CREATE TABLE IF NOT EXISTS users (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            devtag TEXT UNIQUE NOT NULL,
-            password TEXT NOT NULL
-        )
-    """)
-    con.commit()
-    con.close()
+database = ".databaseFiles/database.db"
 
 def addUser(devtag, password):
     hashed = bcrypt.hashpw(password.encode("utf-8"), bcrypt.gensalt())
     try:
-        con = sql.connect(".databaseFiles/database.db")
+        con = sql.connect(database)
         cur = con.cursor()
         cur.execute("INSERT INTO users (devtag, password) VALUES (?, ?)", (devtag, hashed))
         con.commit()
@@ -27,7 +16,7 @@ def addUser(devtag, password):
         return False 
 
 def checkUser(devtag, password):
-    con = sql.connect(".databaseFiles/database.db")
+    con = sql.connect(database)
     cur = con.cursor()
     cur.execute("SELECT password FROM users WHERE devtag=?", (devtag,))
     result = cur.fetchone()
@@ -37,4 +26,3 @@ def checkUser(devtag, password):
     return False
 
 
-create_table()
