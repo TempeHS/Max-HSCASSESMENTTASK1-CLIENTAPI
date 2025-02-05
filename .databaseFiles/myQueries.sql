@@ -15,6 +15,12 @@ CREATE TABLE entries (
 -- INSERT INTO id7-tusers(username,password) VALUES ("","");
 
 --INSERT INTO users(devtag,password) VALUES ("max","password");
+CREATE TABLE failed_logins (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    devtag TEXT NOT NULL,
+    ip_address TEXT NOT NULL,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+);
 
 -- SELECT * FROM extension;
 CREATE TABLE entries (
