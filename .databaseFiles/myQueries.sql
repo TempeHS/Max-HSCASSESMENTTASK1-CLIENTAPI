@@ -17,4 +17,12 @@ CREATE TABLE entries (
 --INSERT INTO users(devtag,password) VALUES ("max","password");
 
 -- SELECT * FROM extension;
-
+CREATE TABLE entries (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    devtag TEXT NOT NULL,
+    project TEXT NOT NULL,
+    repo TEXT NOT NULL,
+    starttime TEXT NOT NULL,
+    endtime TEXT NOT NULL
+);
+INSERT INTO entries(devtag,project,repo,starttime,endtime) VALUES ("max","project","repo","starttime","endtime");

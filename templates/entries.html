@@ -14,11 +14,11 @@
     <tbody>
       {% for entry in entries %}
       <tr>
-        <td>{{ entry.devtag }}</td>
-        <td>{{ entry.project }}</td>
-        <td>{{ entry.repo }}</td>
-        <td>{{ entry.starttime }}</td>
-        <td>{{ entry.endtime }}</td>
+        <td>{{ entry[1] }}</td>
+        <td>{{ entry[2] }}</td>
+        <td>{{ entry[3] }}</td>
+        <td>{{ entry[4] }}</td>
+        <td>{{ entry[5] }}</td>
       </tr>
       {% endfor %}
     </tbody>

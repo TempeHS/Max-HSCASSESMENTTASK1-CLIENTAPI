@@ -86,29 +86,27 @@ class DiaryEntryForm(FlaskForm):
     devtag = StringField('Devtag', validators=[DataRequired()])
     project = StringField('Project', validators=[DataRequired()])
     repo = StringField('Repo', validators=[DataRequired()])
-    starttime = DateTimeField('Start Time', validators=[DataRequired()])
-    endtime = DateTimeField('End Time', validators=[DataRequired()])
+    starttime = StringField('Start Time', validators=[DataRequired()])
+    endtime = StringField('End Time', validators=[DataRequired()])
     submit = SubmitField('Submit')
-
-def get_db_connection():
-    con = sql.connect(database)
-    con.row_factory = sql.Row
-    return con
 
 @app.route("/form", methods=["GET", "POST"])
 def insertEntry():
     if "user" not in session:
         return redirect(url_for("login"))
     form = DiaryEntryForm()
-    if form.validate_on_submit():
-        devtag = form.devtag.data
-        project = form.project.data
-        repo = form.repo.data
-        starttime = form.starttime.data
-        endtime = form.endtime.data
-        logHandler.new_entry(devtag, project, repo, starttime, endtime)
-        flash("Entry added successfully", "success")
-        return redirect(url_for("showEntry"))
+    if request.method == "POST":
+        if form.validate_on_submit():
+            devtag = form.devtag.data
+            project = form.project.data
+            repo = form.repo.data
+            starttime = form.starttime.data
+            endtime = form.endtime.data
+            logHandler.new_entry(devtag, project, repo, starttime, endtime)
+            flash("Entry added successfully", "success")
+            return redirect(url_for("showEntry"))
+        else:
+            flash("Please fill in all fields", "danger")
     return render_template("form.html", form=form)
 
 @app.route("/entries", methods=["GET"])
