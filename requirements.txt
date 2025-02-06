@@ -4,3 +4,5 @@ flask-WTF
 flask-CORS
 flask-Limiter
 Flask-CSP
+bleach
+requests
