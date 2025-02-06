@@ -4159,3 +4159,35 @@
 2025-02-06 17:38:27,082 127.0.0.1 - - [06/Feb/2025 17:38:27] "GET /dashboard HTTP/1.1" 200 -
 2025-02-06 17:38:27,120 127.0.0.1 - - [06/Feb/2025 17:38:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 2025-02-06 17:38:27,123 127.0.0.1 - - [06/Feb/2025 17:38:27] "[33mGET /static/css/static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-02-06 20:13:24,097 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-06 20:13:24,097 [33mPress CTRL+C to quit[0m
+2025-02-06 20:13:24,104  * Restarting with stat
+2025-02-06 20:13:24,580  * Debugger is active!
+2025-02-06 20:13:24,618  * Debugger PIN: 508-715-579
+2025-02-06 20:13:26,098 127.0.0.1 - - [06/Feb/2025 20:13:26] "GET / HTTP/1.1" 200 -
+2025-02-06 20:13:26,191 127.0.0.1 - - [06/Feb/2025 20:13:26] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-02-06 20:13:26,204 127.0.0.1 - - [06/Feb/2025 20:13:26] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-06 20:13:26,208 127.0.0.1 - - [06/Feb/2025 20:13:26] "[33mGET /static/css/static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-02-06 20:13:26,212 127.0.0.1 - - [06/Feb/2025 20:13:26] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-02-06 20:13:26,213 127.0.0.1 - - [06/Feb/2025 20:13:26] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-02-06 20:13:26,686 127.0.0.1 - - [06/Feb/2025 20:13:26] "GET / HTTP/1.1" 200 -
+2025-02-06 20:13:26,713 127.0.0.1 - - [06/Feb/2025 20:13:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-06 20:13:26,756 127.0.0.1 - - [06/Feb/2025 20:13:26] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-02-06 20:13:26,758 127.0.0.1 - - [06/Feb/2025 20:13:26] "[33mGET /static/css/static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-02-06 20:13:26,762 127.0.0.1 - - [06/Feb/2025 20:13:26] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-02-06 20:13:26,763 127.0.0.1 - - [06/Feb/2025 20:13:26] "[33mPOST /csp_report HTTP/1.1[0m" 404 -
+2025-02-06 20:13:34,826 127.0.0.1 - - [06/Feb/2025 20:13:34] "GET /login HTTP/1.1" 200 -
+2025-02-06 20:13:34,857 127.0.0.1 - - [06/Feb/2025 20:13:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-06 20:13:34,862 127.0.0.1 - - [06/Feb/2025 20:13:34] "[33mGET /static/css/static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-02-06 20:13:58,354 127.0.0.1 - - [06/Feb/2025 20:13:58] "GET /login HTTP/1.1" 200 -
+2025-02-06 20:13:58,377 127.0.0.1 - - [06/Feb/2025 20:13:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-06 20:13:58,379 127.0.0.1 - - [06/Feb/2025 20:13:58] "[33mGET /static/css/static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-02-06 20:14:06,970 127.0.0.1 - - [06/Feb/2025 20:14:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-06 20:14:06,976 127.0.0.1 - - [06/Feb/2025 20:14:06] "GET /dashboard HTTP/1.1" 200 -
+2025-02-06 20:14:07,004 127.0.0.1 - - [06/Feb/2025 20:14:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-06 20:14:07,015 127.0.0.1 - - [06/Feb/2025 20:14:07] "[33mGET /static/css/static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-02-06 20:14:10,466 Empty fields from 127.0.0.1
+2025-02-06 20:14:10,470 127.0.0.1 - - [06/Feb/2025 20:14:10] "GET /form HTTP/1.1" 200 -
+2025-02-06 20:14:10,496 127.0.0.1 - - [06/Feb/2025 20:14:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-06 20:14:10,503 127.0.0.1 - - [06/Feb/2025 20:14:10] "[33mGET /static/css/static/css/bootstrap.min.css HTTP/1.1[0m" 404 -

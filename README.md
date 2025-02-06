@@ -20,5 +20,8 @@
 <pre>python main.py</pre>
 - Login with - Devtag: DevAdmin123
 - Password: SecurePass!123
+  ![alt text](readme_photos/login.PNG)
   Or Sign up with your own account
+
 - Now you can make new diary entries or view others entries!
+  ![alt text](readme_photos/entry.PNG)
