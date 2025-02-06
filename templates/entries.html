@@ -1,0 +1,27 @@
+{% extends 'layout.html' %} {% block content %}
+<div class="container mt-5">
+  <h1 class="mb-4">Diary Entries</h1>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Devtag</th>
+        <th>Project</th>
+        <th>Repo</th>
+        <th>Start Time</th>
+        <th>End Time</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for entry in entries %}
+      <tr>
+        <td>{{ entry[1] }}</td>
+        <td>{{ entry[2] }}</td>
+        <td>{{ entry[3] }}</td>
+        <td>{{ entry[4] }}</td>
+        <td>{{ entry[5] }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

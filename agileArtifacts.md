@@ -1,29 +1,27 @@
 # Sprint Backlog (List of acheivables)
 
-~~1. Create home/title page~~
-~~2. Implement privacy handling and strict content policy~~
-~~3. Create SQLite database for accounts~~
-~~4. Design frontend framework with HTML~~
-~~5. New user sign up functionality~~
+~~1. Implement a working dashboard where users can input and view diary logs~~
+~~2. Inputs are sanitised and validated before being added~~
+~~3. Implement a log for failed login attempts~~ 4. Signup page includes date of birth and email and passwords need to be validated
 
 ## Increment (What must be completed by the end of the sprint)
 
-- Landing page consisting of sign in and sign-up buttons
-- Login information to be stored in an SQLite database
-- Privacy handling and content policy that is easily accesible for users
+- Users can login/signup and are able to view diary entries by search and input diary entries
+- Any inputs must be validated and sanitised for security
+- Any failed login attempts will be logged with timestamp and the attempted login inputs
+- Users will signup using email and date of birth for further 2FA implementation
 
 ## Sprint Review (Focus on project management)
 
 ### What challenges did you have
 
-- Determining correct endroutes to interfaces. I found it challenging keep the endroutes to each template the same as i kept changing them throughout frontend and backend code
-- Using CSRF tokens correctly. Implementing CSRF tokens to each page when rendered was a challenge as I was finding it difficult to determine how and where to place them.
-- Getting sidetracked and not following an agile approach and my sprint backlog. This led to me spending unnessecary time on things that I should be completing later down the line.
+- When starting this sprint I had issues with viewing the diary entries and figuring which end points matched
+- Implementing email and date of birth for signup wasnt completed as i had issues with altering the SQL database
 
 ### What did you do well
 
-- Debbuging any errors that occured during runtime. I used the security log and debugging tools to my advantage to efficiently solve any problems that I was experiencing during runtime.
+- I found handling input data for sanitisation and validation to be easier than the other components and feel that the inputs are all correctly handled
 
 ### What will you do differently next time
 
-- Follow a more strict Agile Approach and the sprint backlog that I have set for myself
+- Next time set myself up for the expansion of my PWA for integrating an API and more security measures such as 2FA
